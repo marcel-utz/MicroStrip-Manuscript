@@ -106,7 +106,7 @@ potential difference between the two conductors that arises from the
 propagating TEM mode as
 
 \begin{equation}
-V(z) = e^{\gamma z}\oint_1^2 \mathbf{E}(x,y)\cdot \mathrm{d}\mathbf{s},
+V(z) = e^{-\gamma z}\oint_1^2 \mathbf{E}(x,y)\cdot \mathrm{d}\mathbf{s},
 \end{equation}
 
 where the propagation constant \m{\gamma=\alpha + j k} describes both
@@ -116,35 +116,98 @@ Similarly, the current flowing in the conductor can be obtained using
 Ampere's law
 
 \begin{equation}
-I(z) = e^{\gamma z} \oint \mathbf{H}(x,y)\cdot \mathrm{d}\mathbf{s},
+I(z) = e^{-\gamma z} \oint \mathbf{H}(x,y)\cdot \mathrm{d}\mathbf{s},
 \end{equation}
 
 where the integration path in this case is a closed loop around the
 conductor. It is easily shown that the voltage and current thus obtained
-satisfy the telegrapher's equations
+satisfy the equations
 
 \begin{eqnarray}
 \frac{\mathrm{d}^2 V}{\mathrm{d}z^2} = \gamma^2 V(z) \\
 \frac{\mathrm{d}^2 I}{\mathrm{d}z^2} = \gamma^2 I(z).
 \end{eqnarray}
 
-\begin{itemize}
-\item
-  In the lossless case, alpha=0, fields are purely transverse and
-  satisfy Laplace' equation
-\item
-  boundary conditions at the conductor require E perp Surf and H para
-  surf
-\item
-\item
-  Characteristic impedance of a single stripline
-\item
-  Steps in impedance
-\item
-  Insertion of a microslot
+These equations are useful to describe the behaviour of transmission
+lines when integrated into electrical circuit networks. In general, they
+can be solved by a superposition of two waves travelling in opposite
+directions:
 
-  \subsubsection{Transmission Line
-  Resonators}\label{transmission-line-resonators}
+\begin{eqnarray}
+V(z) = V_0^+ e^{-\gamma z} + V_0^- e^{\gamma z} \\ 
+I(z) = I_0^+ e^{-\gamma z} + I_0^- e^{\gamma z}.
+\end{eqnarray}
+
+The ratio
+
+\begin{equation}
+Z_0 = \frac{V_0^+}{I_0^+} = \frac{V_0^-}{I_0^-}
+\end{equation}
+
+is known as the characteristic impedance of the transmission line. Its
+value depends entirely on the geometry of the transmission line cross
+section and on the the dielectric and magnetic properties of the
+insulator.
+
+\subsubsection{Losses in Transmission
+Lines}\label{losses-in-transmission-lines}
+
+There are two main contributions to the power losses in a transmission
+line. On the one hand, there are dielectric losses due to the repeated
+polarisation and depolarisation of the insulating medium. These are
+proportional to the magnitude of the electric fields. The dielectric
+properties of most insulator materials are only very weakly frequency
+dependent; the dissipated power therefore tends to be proportional to
+the frequency. The dielectric dissipation of a material can be expressed
+by adding an imaginary component to its dielectric permittivity
+\m{\epsion=\epsilon’ + i \epsilon’’}. Often, the loss tangent, defined
+as \m{\tan \delta = \epsilon’’/\epsilon’} is used in order to express
+the material property. A second (and, in the present context, often
+dominant) source of losses is the finite conductivity in the metal
+boundaries. A plane electromagnetic wave impinging on an imperfect
+conductor penetrates into it only to a finite depth \m{\delta}, known as
+the skin depth. This is because the tangential component of the magnetic
+field at the boundary induces in the surface a current which cancels the
+magnetic field deeper inside metal. Since this current is sustained
+against a finite ohmic resistance, it leads to heating and therefore to
+a loss of power from the electromagnetic wave. The dissipated power
+depends linearly on the magnetic field at the surface of the conductor.
+If the dimensions of the transmission line cross section are much larger
+than the skin depth, it is possible to express the dissipated power per
+unit surface area as
+
+\begin{equation}
+P_\delta = |H_\parallel|^2 R_s,
+\end{equation}
+
+where \m{R_s} is the surface resistance of the metal. It depends on the
+material's conductance and the skin depth as
+
+\begin{equation}
+R_s = \frac{1}{\sigma \delta_s} = \sqrt{\frac{\omega\mu}{2\sigma},
+\end{equation}
+
+where \m{\delta_s} is the skin depth, and \m{\sigma} represents the
+conductivity. For pure Cu, \m{\sigma=5.9\cdot 10^7}S/m, which translates
+into a surface resistance of about 10 m\m{\Omega} at 100 MHz, and about
+35 m\m{\Omega} at 1 GHz.
+
+\subsubsection{~Magnetic Fields and Losses in Transmission Lines,
+Striplines, Microstrips and
+Microslots}\label{magnetic-fields-and-losses-in-transmission-lines-striplines-microstrips-and-microslots}
+
+The magnetic and electric field distributions of the TEM mode in some
+planar transmission line geometries are shown in Fig XXX. Fig XXa shows
+a stripline, symmetrically bounded between two ground planes. The
+magnetic field lines encircle the central conductor, producing two areas
+of very high field homogeneity which can be used as sample locations for
+NMR spectroscopy. The stripline, shown in Fig. XXb, exhibits a similar
+field geometry
+
+\subsubsection{Transmission Line
+Resonators}\label{transmission-line-resonators}
+
+\begin{itemize}
 \item
   Dimensions and eigenfrequencies
 \item

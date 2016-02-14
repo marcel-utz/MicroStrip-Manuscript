@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.19)  14 FEB 2016 13:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.19)  14 FEB 2016 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -111,36 +111,74 @@ l.27 \textem
 Package natbib Warning: Citation `Barret:1955ie' on page 6 undefined on input l
 ine 40.
 
-[6] [7]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 133.
+[6] [7] [8]
+! Undefined control sequence.
+<argument> \epsion 
+                   =\epsilon â€™ + i \epsilon â€™â€™
+l.163 \m{\epsion=\epsilonâ€™ + i \epsilonâ€™â€™}
+                                                . Often, the loss tangent, d...
 
- (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+? 
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[9]
+! You can't use `\eqno' in math mode.
+\endequation ->\eqno 
+                     \hbox {\@eqnnum }$$\@ignoretrue 
+l.188 \end{equation}
+                    
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.188 \end{equation}
+                    
+? 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 212.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
- [8])
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 212.
+)
 (./stripline-nmr.tex) (./microstrip.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
- [9])
+ [10])
 
 Package natbib Warning: There were undefined citations.
 
-[10] (./microstrip.aux)
+[11] (./microstrip.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
 
 
  ) 
 Here is how much of TeX's memory you used:
- 1888 strings out of 493089
- 23793 string characters out of 6134841
+ 1892 strings out of 493089
+ 23925 string characters out of 6134841
  95845 words of memory out of 5000000
- 5413 multiletter control sequences out of 15000+600000
+ 5417 multiletter control sequences out of 15000+600000
  9826 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,26p,175b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,26p,235b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
@@ -154,10 +192,10 @@ exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on microstrip.pdf (10 pages, 184304 bytes).
+Output written on microstrip.pdf (11 pages, 190388 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
