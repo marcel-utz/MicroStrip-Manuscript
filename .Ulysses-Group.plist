@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 15.md</string>
+		</array>
+		<array>
+			<string>Introduction - 3.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 14.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 13.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 12.md</string>
+		</array>
+		<array>
+			<string>Introduction - 2.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 11.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 10.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 9.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 8.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 7.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 6.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 5.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 4.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 3.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory - 2.md</string>
+		</array>
+		<array>
+			<string>Striplines and Microslots- Basics and Theory.md</string>
+		</array>
+		<array>
+			<string>intro-test.latex</string>
+		</array>
+		<array>
+			<string>intro-test.tex</string>
+		</array>
+		<array>
+			<string>introduction.log</string>
+		</array>
+		<array>
+			<string>Introduction.md</string>
+		</array>
+		<array>
+			<string>introduction.tex</string>
+		</array>
+		<array>
+			<string>literature.bib</string>
+		</array>
+		<array>
+			<string>microstrip.aux</string>
+		</array>
+		<array>
+			<string>microstrip.log</string>
+		</array>
+		<array>
+			<string>microstrip.tex</string>
+		</array>
+		<array>
+			<string>rsc.bst</string>
+		</array>
+		<array>
+			<string>stripline-nmr.tex</string>
+		</array>
+		<array>
+			<string>test-theory.tex</string>
+		</array>
+		<array>
+			<string>theory.md</string>
+		</array>
+		<array>
+			<string>theory.tex</string>
+		</array>
+		<array>
+			<string>theory-test.tex</string>
+		</array>
+	</array>
+</dict>
+</plist>
