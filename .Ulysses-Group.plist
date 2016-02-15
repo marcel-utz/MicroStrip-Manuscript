@@ -11,6 +11,12 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>Striplines and Microslots- Basics and Theory - 18.md</string>
+		</array>
+		<array>
+			<string>Introduction - 4.md</string>
+		</array>
+		<array>
 			<string>Striplines and Microslots- Basics and Theory - 17.md</string>
 		</array>
 		<array>
@@ -111,6 +117,21 @@
 		</array>
 		<array>
 			<string>theory-test.tex</string>
+		</array>
+		<array>
+			<string>wileynum.bst</string>
+		</array>
+		<array>
+			<string>wileyauy.bst</string>
+		</array>
+		<array>
+			<string>wileySTM.sty</string>
+		</array>
+		<array>
+			<string>babelbst.tex</string>
+		</array>
+		<array>
+			<string>main.tex</string>
 		</array>
 	</array>
 </dict>
