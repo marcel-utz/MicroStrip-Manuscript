@@ -144,14 +144,29 @@ good approximation.}
 The magnetic field distribution
 is easily found using the the curl equations:
 \begin{equation}
-		\mathbf{H}=e^{-\gamma z} \frac{j \gamma}{\omega\mu} \left(-\frac{\partial\phi}{\partial x}, \frac{\partial\phi}{\partial y},0\right).
+		\mathbf{H}=e^{-\gamma z} \left(\frac{1}{\eta}-\frac{j\alpha}{\omega\mu} \right)\left(\frac{\partial\phi}{\partial x}, -\frac{\partial\phi}{\partial y},0\right),
 \end{equation}
+where the characteristic impedance of the medium $\eta$ is given by
+\begin{equation}
+	\eta=\sqrt{\frac{\mu}{\epsilon}}.
+\end{equation}
+Note that in the case of $\alpha=0$, the magnetic and the electric field are \textit{in phase},
+whereas a positive attenuation constant $\alpha>0$ leads to the magnetic field phase lagging behind the electric field.
 %
 The time-averaged power transported by the TEM wave is given by real part the 
 Poynting vector as
 \begin{equation}
-	\Re(\mathbf{S})=\frac{1}{2}\Re(\mathbf{E}\times\mathbf{H}^\ast) = \frac{k e^{-2\alpha z}}{2\omega\mu} (0,0,)
+	\Re(\mathbf{S})=\frac{1}{2}\Re(\mathbf{E}\times\mathbf{H}^\ast) = p_t\,\hat{\mathbf{z}},
 \end{equation}
+where the cross-sectional density of power $p_t(x,y)$ is
+\begin{equation}
+	p_t(x,y)=\frac{e^{-2\alpha z}}{2\eta} \left[\left(\frac{\partial\phi}{\partial x}\right)^2+\left(\frac{\partial\phi}{\partial y}\right)^2\right].
+\end{equation}
+The relative power loss per unit length is therefore given by
+\begin{equation}
+	 \frac{1}{p_t}\frac{\partial p_t}{\partial z} = -2\alpha.
+\end{equation}
+
 At every cross section of
 the transmission line, it is possible to compute the electrical
 potential difference between the two conductors by a path integral 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.19)  15 FEB 2016 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.19)  15 FEB 2016 20:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1027,13 +1027,13 @@ LaTeX Font Warning: Font shape `U/stmry/m/n' in size <7.52812> not available
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.76405> not available
 (Font)              size <5> substituted on input line 142.
 
-[7] [8]
-LaTeX Font Info:    Try loading font information for TS1+qtm on input line 289.
+[7] [8] [9]
+LaTeX Font Info:    Try loading font information for TS1+qtm on input line 304.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 ))
-(./stripline-nmr.tex) (./microstrip.bbl [9] [10] (./babelbst.tex))
+(./stripline-nmr.tex) (./microstrip.bbl [10] (./babelbst.tex))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
  [11
 
@@ -1053,9 +1053,9 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  ) 
 Here is how much of TeX's memory you used:
- 9768 strings out of 493089
- 141692 string characters out of 6134841
- 247598 words of memory out of 5000000
+ 9771 strings out of 493089
+ 141737 string characters out of 6134841
+ 247599 words of memory out of 5000000
  12982 multiletter control sequences out of 15000+600000
  60040 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1077,10 +1077,10 @@ nts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/tex-gyre/qtmr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/t
 ex-gyre/qtmri.pfb>
-Output written on microstrip.pdf (11 pages, 644054 bytes).
+Output written on microstrip.pdf (11 pages, 646396 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 223 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 57 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
