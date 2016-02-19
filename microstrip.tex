@@ -3,37 +3,37 @@
 % Review on Micro-Striplines and Micro-Slot probes
 % Marcel Utz and Ali Yilmaz
 % February 2016
+\documentclass[]{book}
 
-
-\documentclass[prb,manuscript]{revtex4}
-
-\newcommand{\m}[1]{\ensuremath{#1}}
-
-\begin{document}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{{./Figures/}}
+\usepackage[]{natbib}
+%\usepackage{chapterbib}
+\bibliographystyle%
+  {wileynum}%for numerical citation and numerically listed entries in the bibliography
+  %{wileyauy}%for author--year citation and alphabetical order in the bibliography
+\usepackage{wileySTM}
+\usepackage[\ifnum\pdfoutput=1breaklinks\fi]{hyperref}
 
 \title{Micro-Striplines and Micro-Slot NMR Probes}
 \author{Ali Yilmaz and Marcel Utz}
-\affiliation{School of Chemistry, University of Southampton, United Kingdom}
-\date{DRAFT: \today}
 
-\begin{abstract}
-	Striplines are commonly used to transport signals in microwave and radio frequency circuits. They 
-	are easily implemented on printed circuit boards. Over the past two decades, wave guides 
-	with planar geometry have found increasing use as inductive detectors in miniaturised nuclear
-	magnetic resonance systems. In this article, we give a brief overview of the theory of 
-	striplines and resonators built from them, and we review the literature on their use in NMR
-	spectroscopy.
-\end{abstract}
+\newcommand{\m}[1]{\ensuremath{#1}}
+\newcommand{\fig}[1]{{Fig.~\ref{#1}}}
+
+\begin{document}
 
 	\maketitle
+
+	\chapter{Micro-Striplines and Micro-Slot NMR Probes}
 	
 	\input introduction
 	
-	\input theory-test
+	\input theory
 	
 	\input stripline-nmr
 	
-	\bibliographystyle{IEEEtran}
 	\bibliography{literature}
 	
 \end{document}

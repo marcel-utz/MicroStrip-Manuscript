@@ -15,6 +15,9 @@
 		<array>
 			<string>cross-sections.log</string>
 		</array>
+		<array>
+			<string>q.log</string>
+		</array>
 	</array>
 </dict>
 </plist>
