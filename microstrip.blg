@@ -3,59 +3,83 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: microstrip.aux
 The style file: wileynum.bst
 Database file #1: literature.bib
-Repeated entry---line 11594 of file literature.bib
+Repeated entry---line 11957 of file literature.bib
  : @article{hoult1975cfd
  :                      ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "Maguire:2009wc" isn't style-file defined
---line 11919 of file literature.bib
-I was expecting a `,' or a `}'---line 19496 of file literature.bib
+--line 12291 of file literature.bib
+I was expecting a `,' or a `}'---line 20080 of file literature.bib
  : month = {\textasciitilde}
  :                          5,
 I'm skipping whatever remains of this entry
-Repeated entry---line 19824 of file literature.bib
+Repeated entry---line 20428 of file literature.bib
  : @article{webb2005nmr
  :                     ,
 I'm skipping whatever remains of this entry
-You've used 13 entries,
+Warning--I didn't find a database entry for "Zhang2001js"
+Warning--I didn't find a database entry for "Zhang2006wc"
+Warning--I didn't find a database entry for "Boskamp2006tl"
+Warning--I didn't find a database entry for "Sweedler1997tl"
+Warning--I didn't find a database entry for "Lacey1999uu"
+Warning--I didn't find a database entry for "Seeber2000iy"
+Warning--I didn't find a database entry for "Kentgens:2008wu"
+Warning--I didn't find a database entry for "Sakellariou:2007jy"
+Warning--I didn't find a database entry for "Harel2009eg"
+Warning--I didn't find a database entry for "Telkki:2011go"
+Warning--I didn't find a database entry for "Telkki2014jf"
+Warning--I didn't find a database entry for "Massin:2003ty"
+Warning--I didn't find a database entry for "Wensink:2005fs"
+Warning--I didn't find a database entry for "Spengler:2014r"
+Warning--I didn't find a database entry for "Gobel:2014n"
+Warning--I didn't find a database entry for "Maguire:2004wc"
+Warning--I didn't find a database entry for "Krojanski:2008ut"
+Warning--I didn't find a database entry for "REF:Mispelter"
+Warning--I didn't find a database entry for "Pan:2007uk"
+Warning--I didn't find a database entry for "Zhang2010kf"
+Warning--empty journal in Bridges:1988vz
+Warning--empty author in Adriany:2005cw
+Name 2 in "{K Yamauchi} and T Imada, and and Asakura, T" has a comma at the end for entry KYamauchi:2005jv
+while executing---line 1446 of file wileynum.bst
+You've used 92 entries,
             2913 wiz_defined-function locations,
-            711 strings with 7235 characters,
-and the built_in function-call counts, 9701 in all, are:
-= -- 1254
-> -- 115
-< -- 0
-+ -- 103
-- -- 31
-* -- 398
-:= -- 705
-add.period$ -- 24
-call.type$ -- 13
-change.case$ -- 12
+            1265 strings with 24907 characters,
+and the built_in function-call counts, 76949 in all, are:
+= -- 9544
+> -- 1403
+< -- 4
++ -- 976
+- -- 409
+* -- 3432
+:= -- 5713
+add.period$ -- 174
+call.type$ -- 92
+change.case$ -- 87
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 1201
-empty$ -- 625
-format.name$ -- 40
-if$ -- 2079
+cite$ -- 94
+duplicate$ -- 9418
+empty$ -- 4771
+format.name$ -- 493
+if$ -- 16398
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 116
-newline$ -- 51
-num.names$ -- 13
-pop$ -- 426
+int.to.str$ -- 92
+missing$ -- 1028
+newline$ -- 288
+num.names$ -- 91
+pop$ -- 3350
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 650
+skip$ -- 4998
 stack$ -- 0
-substring$ -- 497
-swap$ -- 1121
-text.length$ -- 0
+substring$ -- 3895
+swap$ -- 8860
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 13
-warning$ -- 0
-while$ -- 46
-width$ -- 15
-write$ -- 126
-(There were 3 error messages)
+type$ -- 92
+warning$ -- 2
+while$ -- 318
+width$ -- 94
+write$ -- 828
+(There were 4 error messages)

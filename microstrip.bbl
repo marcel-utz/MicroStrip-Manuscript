@@ -73,4 +73,436 @@ Barret, R.M. (1955) {Microwave Printed Circuits - A Historical Survey}.
   \emph{Microwave Theory and Techniques, IRE Transactions on}, \textbf{3}~(2),
   1--9.
 
+\bibitem{Bridges:1988vz}
+Bridges, J.F. \bbland{} {Advanced Nmr Systems, Inc.} (1988) {Cavity resonator
+  with improved magnetic field uniformity for high frequency operation and
+  reduced dielectric heating in NMR imaging devices}.
+
+\bibitem{Bogdanov:2002gv}
+Bogdanov, G. \bbland{} Ludwig, R. (2002) {Coupled microstrip line transverse
+  electromagnetic resonator model for high-field magnetic resonance imaging}.
+  \emph{Magn. Reson. Med.}, \textbf{47}~(3), 579--593.
+
+\bibitem{Hayes:1985bw}
+Hayes, C.E., Edelstein, W.A., Schenck, J.F., Mueller, O.M., \bbland{} Eash, M.
+  (1985) \emph{{An efficient, highly homogeneous radiofrequency coil for
+  whole-body NMR imaging at 1.5 T}}, \bblvol{}~63, Journal of Magnetic
+  {\ldots}.
+
+\bibitem{Zhang:2005cr}
+Zhang, X., Zhu, X.H., \bbland{} Chen, W. (2005) {Higher-order harmonic
+  transmission-line RF coil design for MR applications}. \emph{Magn. Reson.
+  Med.}, \textbf{53}~(5), 1234--1239.
+
+\bibitem{Zhang:2003ju}
+Zhang, X., Ugurbil, K., \bbland{} Chen, W. (2003) {A microstrip transmission
+  line volume coil for human head MR imaging at 4T}. \emph{Journal of Magnetic
+  Resonance}, \textbf{161}~(2), 242--251.
+
+\bibitem{Driesel:2008di}
+Driesel, W., Mildner, T., \bbland{} M{\"o}ller, H.E. (2008) {A microstrip
+  helmet coil for human brain imaging at high magnetic fields}. \emph{Concepts
+  in Magnetic Resonance Part B: Magnetic Resonance Engineering},
+  \textbf{33B}~(2), 94--108.
+
+\bibitem{Vaughan:2002cs}
+Vaughan, J.T., Adriany, G., Garwood, M., Yacoub, E., Duong, T., DelaBarre, L.,
+  Andersen, P., \bbland{} Ugurbil, K. (2002) {Detunable transverse
+  electromagnetic (TEM) volume coil for high-field NMR}. \emph{Magn. Reson.
+  Med.}, \textbf{47}~(5), 990--1000.
+
+\bibitem{Lee:2001ji}
+Lee, R.F., Westgate, C.R., Weiss, R.G., Newman, D.C., \bbland{} Bottomley, P.A.
+  (2001) {Planar strip array (PSA) for MRI}. \emph{Magn. Reson. Med.},
+  \textbf{45}~(4), 673--683.
+
+\bibitem{Roemer:1990gs}
+Roemer, P.B., Edelstein, W.A., Hayes, C.E., Souza, S.P., \bbland{} Mueller,
+  O.M. (1990) {The NMR phased array}. \emph{Magn. Reson. Med.},
+  \textbf{16}~(2), 192--225.
+
+\bibitem{Hoult:2004gm}
+Hoult, D., Kolansky, G., Kripiakevich, D., \bbland{} King, S. (2004) {The NMR
+  multi-transmit phased array: a Cartesian feedback approach}. \emph{J. Magn.
+  Reson}, \textbf{171}~(1), 64--70.
+
+\bibitem{vandenBergen:2010hg}
+van~den Bergen, B., Klomp, D.W.J., Raaijmakers, A.J.E., de~Castro, C.A., Boer,
+  V.O., Kroeze, H., Luijten, P.R., Lagendijk, J.J.W., \bbland{} van~den Berg,
+  C.A.T. (2010) {Uniform prostate imaging and spectroscopy at 7 T: comparison
+  between a microstrip array and an endorectal coil}. \emph{NMR in
+  Biomedicine}, \textbf{24}, 358--365.
+
+\bibitem{Adriany:2005cw}
+ (2005) {Transmit and receive transmission line arrays for 7 Tesla parallel
+  imaging}. \emph{Magn. Reson. Med.}, \textbf{53}~(2), 434--445.
+
+\bibitem{Wu:2006bs}
+Wu, B., Zhang, X., Qu, P., \bbland{} Shen, G.X. (2006) {Design of an
+  inductively decoupled microstrip array at 9.4T}. \emph{Journal of Magnetic
+  Resonance}, \textbf{182}~(1), 126--132.
+
+\bibitem{Wang:2006gk}
+Wang, C. \bbland{} Shen, G.X. (2006) {B1 field, SAR, and SNR comparisons for
+  birdcage, TEM, and microstrip coils at 7T}. \emph{Journal of Magnetic
+  Resonance Imaging}, \textbf{24}~(2), 439--443.
+
+\bibitem{vandenBergen:2009dk}
+van~den Bergen, B., van~den Berg, C.A.T., Klomp, D.W.J., \bbland{} Lagendijk,
+  J.J.W. (2009) {SAR and power implications of different RF shimming strategies
+  in the pelvis for 7T MRI}. \emph{Journal of Magnetic Resonance Imaging},
+  \textbf{30}~(1), 194--202.
+
+\bibitem{Ipek:2012bm}
+Ipek, {\"O}., Raaijmakers, A.J.E., Klomp, D.W.J., Lagendijk, J.J.W., Luijten,
+  P.R., \bbland{} van~den Berg, C.A.T. (2012) {Characterization of transceive
+  surface element designs for 7 tesla magnetic resonance imaging of the
+  prostate: radiative antenna and microstrip}. \emph{Phys. Med. Biol.},
+  \textbf{57}~(2), 343--355.
+
+\bibitem{Olson:1995vu}
+Olson, D., Peck, T., Webb, A., Magin, R., \bbland{} Sweedler, J. (1995)
+  {High-Resolution Microcoil\^ 1H-NMR for Mass-Limited, Nanoliter-Volume
+  Samples}. \emph{Science}, \textbf{270}~(5244), 1967--1970.
+
+\bibitem{Peck:1994hh}
+Peck, T., Webb, A., Wu, N., Magin, R., \bbland{} Sweedler, J. (1994)
+  \emph{{On-line NMR detection in capillary electrophoresis using an RF
+  microcoil}}, IEEE.
+
+\bibitem{Wu:1994ks}
+Wu, N., Peck, T.L., Webb, A.G., Magin, R.L., \bbland{} Sweedler, J.V. (1994)
+  {Nanoliter Volume Sample cells for 1H NMR: Application to Online Detection in
+  Capillary Electrophoresis}. \emph{Journal of the {\ldots}},
+  \textbf{116}~(17), 7929--7930.
+
+\bibitem{Olson:1999ed}
+Olson, D., Lacey, M.E., Webb, A., \bbland{} Sweedler, J. (1999)
+  {Nanoliter-volume H-1 NMR detection using periodic stopped-flow capillary
+  electrophoresis}. \emph{Analytical chemistry}, \textbf{71}~(15), 3070--3076.
+
+\bibitem{Lacey:2001dr}
+Lacey, M.E., Tan, Z.J., Webb, A.G., \bbland{} Sweedler, J.V. (2001) {Union of
+  capillary high-performance liquid chromatography and microcoil nuclear
+  magnetic resonance spectroscopy applied to the separation and identification
+  of terpenoids}. \emph{Journal of Chromatography A}, \textbf{922}~(1-2),
+  139--149.
+
+\bibitem{Ciobanu:2002wo}
+Ciobanu, L. \bbland{} Seeber, D. (2002) {ScienceDirect.com - Journal of
+  Magnetic Resonance - 3D MR microscopy with resolution 3.7$\mu$m by 3.3$\mu$m
+  by 3.3$\mu$m}. \emph{Journal of Magnetic Resonance}.
+
+\bibitem{KYamauchi:2005jv}
+{K Yamauchi}, Imada, T., , \bbland{} Asakura, T. (2005) \emph{{Use of Microcoil
+  Probehead for Determination of the Structure of Oriented Silk Fibers by
+  Solid-State NMR}}, \bblvol{} 109, American Chemical Society.
+
+\bibitem{Jacquinot:2011cj}
+Jacquinot, J.F. \bbland{} Sakellariou, D. (2011) {NMR Signal Detection using
+  Inductive Coupling: Applications to Rotating Microcoils}. \emph{Concepts in
+  Magnetic Resonance Part A}, \textbf{38A}~(2), 33--51.
+
+\bibitem{Samoson:2010et}
+Samoson, A., Tuherm, T., Past, J., Reinhold, A., Heinmaa, I., Anup{\~o}ld, T.,
+  Smith, M.E., \bbland{} Pike, K.J. (2010) \emph{{Fast Magic-Angle Spinning:
+  Implications}}, John Wiley {\&} Sons, Ltd, Chichester, UK.
+
+\bibitem{Hilty:2005eq}
+Hilty, C., McDonnell, E., Granwehr, J., Pierce, K., Han, S., \bbland{} Pines,
+  A. (2005) {Microfluidic gas-flow profiling using remote-detection NMR}.
+  \emph{P Natl Acad Sci Usa}, \textbf{102}~(42), 14\,960--14\,963.
+
+\bibitem{McDonnell:2005dn}
+McDonnell, E., Han, S., Hilty, C., Pierce, K., \bbland{} Pines, A. (2005) {NMR
+  analysis on microfluidic devices by remote detection}. \emph{Anal. Chem},
+  \textbf{77}~(24), 8109--8114.
+
+\bibitem{Harel:2007bs}
+Harel, E., Hilty, C., Koen, K., McDonnell, E.E., \bbland{} Pines, A. (2007)
+  {Time-of-flight flow imaging of two-component flow inside a microfluidic
+  chip}. \emph{Phys Rev Lett}, \textbf{98}~(1), --.
+
+\bibitem{Bouchard:2008hv}
+Bouchard, L.S., Burt, S.R., Anwar, M.S., Kovtunov, K.V., Koptyug, I.V.,
+  \bbland{} Pines, A. (2008) {NMR Imaging of Catalytic Hydrogenation in
+  Microreactors with the Use of para-Hydrogen}. \emph{Science},
+  \textbf{319}~(5862), 442--445.
+
+\bibitem{Ledbetter:2008kp}
+Ledbetter, M.P., Savukov, I.M., Budker, D., Shah, V., Knappe, S., Kitching, J.,
+  Michalak, D.J., Xu, S., \bbland{} Pines, A. (2008) {Zero-field remote
+  detection of NMR with a microfabricated atomic magnetometer.} \emph{Proc.
+  Natl. Acad. Sci. USA}, \textbf{105}~(7), 2286--2290.
+
+\bibitem{Bajaj:2010cy}
+Bajaj, V.S., Paulsen, J., Harel, E., \bbland{} Pines, A. (2010) {Zooming In on
+  Microscopic Flow by Remotely Detected MRI}. \emph{Science},
+  \textbf{330}~(6007), 1078--1081.
+
+\bibitem{Badilita:2010hb}
+Badilita, V., Kratt, K., Baxan, N., Mohmmadzadeh, M., Burger, T., Weber, H.,
+  von Elverfeldt, D., Hennig, J., Korvink, J.G., \bbland{} Wallrabe, U. (2010)
+  {On-chip three dimensional microcoils for MRI at the microscale}. \emph{Lab
+  Chip}, \textbf{10}~(11), 1387--1390.
+
+\bibitem{Stocker:1997by}
+Stocker, J.E., Peck, T., Webb, A., Feng, M., \bbland{} Magin, R. (1997)
+  {Nanoliter volume, high-resolution NMR microspectroscopy using a 60-$\mu$m
+  planar microcoil}. \emph{IEEE Transactions on Biomedical Engineering},
+  \textbf{44}~(11), 1122--1127.
+
+\bibitem{Trumbull:2000vb}
+Trumbull, J. \bbland{} Glasgow, I. (2000) {IEEE Xplore - Abstract Page}.
+  \emph{{\ldots} Engineering}.
+
+\bibitem{Massin:2002bj}
+Massin, C., Boero, G., Vincent, F., Abenhaim, J., Besse, P., \bbland{} Popovic,
+  R.S. (2002) {High-Q factor RF planar microcoils for micro-scale NMR
+  spectroscopy}. \emph{Sensors {\&} Actuators: A. Physical}, \textbf{97-98},
+  280--288.
+
+\bibitem{Wensink:2004kd}
+Wensink, H., Hermes, D.C., \bbland{} van~den Berg, A. (2004) {High signal to
+  noise ratio in low field NMR on chip, simulations and experimental results},
+  \bblin{} \emph{MEMSYS-04}, IEEE, \bblpp{} 407--410.
+
+\bibitem{Gomez:2010jr}
+Gomez, M.V., Verputten, H.H.J., D{\'\i}az-Ort{\'\i}z, A., Moreno, A., de~la
+  Hoz, A., \bbland{} Velders, A.H. (2010) {On-line monitoring of a
+  microwave-assisted chemical reaction by nanolitre NMR-spectroscopy}.
+  \emph{Chem. Commun.}, \textbf{46}~(25), 4514.
+
+\bibitem{Yue:2012fw}
+Yue, J., Schouten, J.C., \bbland{} Nijhuis, T.A. (2012) {Integration of
+  Microreactors with Spectroscopic Detection for Online Reaction Monitoring and
+  Catalyst Characterization}. \emph{Industrial {\&} Engineering {\ldots}},
+  \textbf{51}~(45), 14\,583--14\,609.
+
+\bibitem{Boero:2003hf}
+Boero, G., Bouterfas, M., Massin, C., Vincent, F., Besse, P., Popovic, R.S.,
+  \bbland{} Schweiger, A. (2003) {Electron-spin resonance probe based on a 100
+  $\mu$m planar microcoil}. \emph{Review of Scientific Instruments},
+  \textbf{74}~(11), 4794--4798.
+
+\bibitem{Spengler:2016km}
+Spengler, N., H{\"o}fflin, J., Moazenzadeh, A., Mager, D., MacKinnon, N.,
+  Badilita, V., Wallrabe, U., \bbland{} Korvink, J.G. (2016) {Heteronuclear
+  Micro-Helmholtz Coil Facilitates {\textmu}m-Range Spatial and Sub-Hz Spectral
+  Resolution NMR of nL-Volume Samples on Customisable Microfluidic Chips}.
+  \emph{Plos One}, \textbf{11}~(1), e0146\,384.
+
+\bibitem{Gruschke:2012df}
+Gruschke, O.G., Baxan, N., Clad, L., Kratt, K., von Elverfeldt, D., Peter, A.,
+  Hennig, J., Badilita, V., Wallrabe, U., \bbland{} Korvink, J.G. (2012) {Lab
+  on a chip phased array MR multi-platform analysis system}. \emph{Lab Chip},
+  \textbf{12}~(3), 495--502.
+
+\bibitem{Oligschlager:2015fl}
+Oligschl{\"a}ger, D., Lehmkuhl, S., Watzlaw, J., Benders, S., de~Boever, E.,
+  Rehorn, C., Vossel, M., Schnakenberg, U., \bbland{} Bl{\"u}mich, B. (2015)
+  {Miniaturized multi-coil arrays for functional planar imaging with a
+  single-sided NMR sensor}. \emph{Journal of Magnetic Resonance}, \textbf{254},
+  10--18.
+
+\bibitem{Maguire:2007ko}
+Maguire, Y., Chuang, I., Zhang, S., \bbland{} Gershenfeld, N. (2007)
+  {Ultra-small-sample molecular structure detection using microslot waveguide
+  nuclear spin resonance}. \emph{Proc. Natl. Acad. Sci. USA},
+  \textbf{104}~(22), 9198--9203.
+
+\bibitem{Kalfe:2015ik}
+Kalfe, A., Telfah, A., Lambert, J., \bbland{} Hergenr{\"o}der, R. (2015)
+  {Looking into Living Cell Systems: Planar Waveguide Microfluidic NMR Detector
+  for in Vitro Metabolomics of Tumor Spheroids}. \emph{Analytical chemistry},
+  \textbf{87}~(14), 7402--7410.
+
+\bibitem{Murphree:2007hg}
+Murphree, D., Cahn, S.B., Rahmlow, D., \bbland{} DeMille, D. (2007) {An easily
+  constructed, tuning free, ultra-broadband probe for NMR}. \emph{Journal of
+  Magnetic Resonance}, \textbf{188}~(1), 160--167.
+
+\bibitem{Zhang:2008uh}
+Zhang, X., Wang, C., Xie, Z., \bbland{} Wu, B. (2008) {Non-resonant microstrip
+  (NORM) RF coils: an unconventional RF solution to MR imaging and
+  spectroscopy}, \bblin{} \emph{Proceedings of International Society {\ldots}}.
+
+\bibitem{Zhang:2009tu}
+Zhang, X., Wang, C., \bbland{} Vigneron, D. (2009) {Studies on MR Reception
+  Efficiency and SNR of Non-resonance RF Method (NORM)}. \emph{{\ldots} for
+  Magnetic Resonance in {\ldots}}.
+
+\bibitem{Brunner:2009ff}
+Brunner, D.O., De~Zanche, N., Fr{\"o}hlich, J., Paska, J., \bbland{}
+  Pruessmann, K.P. (2009) {Travelling-wave nuclear magnetic resonance}.
+  \emph{Nature}, \textbf{457}~(7232), 994--998.
+
+\bibitem{Tang:2011ev}
+Tang, J.A., Wiggins, G.C., Sodickson, D.K., \bbland{} Jerschow, A. (2011)
+  {Cutoff-free traveling wave NMR}. \emph{Concepts in Magnetic Resonance Part
+  A}, \textbf{38A}~(5), 253--267.
+
+\bibitem{Fratila:2014bv}
+Fratila, R.M., Gomez, M.V., S{\'{y}}kora, S., \bbland{} Velders, A.H. (2014)
+  {Multinuclear nanoliter one-dimensional and two-dimensional NMR spectroscopy
+  with a single non-resonant microcoil}. \emph{Nature Communications},
+  \textbf{5}.
+
+\bibitem{vanBentum:2007fd}
+van Bentum, P.J.M., Janssen, J.W.G., Kentgens, A.P.M., Bart, J., \bbland{}
+  Gardeniers, J.G.E. (2007) {Stripline probes for nuclear magnetic resonance}.
+  \emph{J. Magn. Reson}, \textbf{189}~(1), 104--113.
+
+\bibitem{Bart:2009kc}
+Bart, J., Kolkman, A.J., Oosthoek-de Vries, A.J., Koch, K., Nieuwland, P.J.,
+  Janssen, H.J.W.G., van Bentum, P.J.M., Ampt, K.A.M., Rutjes, F.P.J.T.,
+  Wijmenga, S.S., Gardeniers, H.J.G.E., \bbland{} Kentgens, A.P.M. (2009) {A
+  Microfluidic High-Resolution NMR Flow Probe}. \emph{J Am Chem Soc},
+  \textbf{131}~(14), 5014--+.
+
+\bibitem{Bart:2010wi}
+Bart, J., Oosthoek-de Vries, A.J., Tijssen, K.C.H., Janssen, J.W.G., Bentum,
+  P.J.M., Gardeniers, J., \bbland{} Kentgens, A. (2010) {In-line NMR analysis
+  using stripline based detectors}. \emph{Proc 14th Int Conf on {\ldots}}.
+
+\bibitem{vanBentum:2008jc}
+van Bentum, P.J.M. \bbland{} Kentgens, A.P.M. (2008) {High-Sensitivity NMR
+  Probe Systems}, \bblin{} \emph{Modern Magnetic Resonance}, Springer
+  Netherlands, Dordrecht, \bblpp{} 353--361.
+
+\bibitem{Goswami:2014ha}
+Goswami, M., Knijn, P.J., Bauhuis, G.J., Janssen, J.W.G., van Bentum, P.J.M.,
+  de~Wijs, G.A., \bbland{} Kentgens, A.P.M. (2014) {Stripline 75As NMR Study of
+  Epitaxial III{\textendash}V Semiconductor Al0.5Ga0.5As}. \emph{The Journal of
+  {\ldots}}, \textbf{118}~(25), 13\,394--13\,405.
+
+\bibitem{Falck:2013kv}
+Falck, D., Vries, A.J.O.d., Kolkman, A., Lingeman, H., Honing, M., Wijmenga,
+  S.S., Kentgens, A.P.M., \bbland{} Niessen, W.M.A. (2013)
+  {EC{\textendash}SPE{\textendash}stripline-NMR analysis of reactive products:
+  a feasibility study}. \emph{Analytical and Bioanalytical Chemistry},
+  \textbf{405}~(21), 6711--6720.
+
+\bibitem{Falck:2015eu}
+Falck, D. \bbland{} Niessen, W.M.A. (2015) {Solution-phase
+  electrochemistry-nuclear magnetic resonance of small organic molecules}.
+  \emph{TrAC Trends in Analytical Chemistry}, \textbf{70}, 31--39.
+
+\bibitem{Tayler:2015gn}
+Tayler, M.C.D., van Meerten, S.B.G.J., Kentgens, A.P.M., \bbland{} van Bentum,
+  P.J.M. (2015) {Analysis of mass-limited mixtures using supercritical-fluid
+  chromatography and microcoil NMR}. \emph{Analyst}, \textbf{140}~(18),
+  6217--6221.
+
+\bibitem{Tijssen:2016hu}
+Tijssen, K.C.H., Bart, J., Tiggelaar, R.M., Janssen, J.W.G.H., Kentgens,
+  A.P.M., \bbland{} van Bentum, P.J.M. (2016) {Spatially resolved spectroscopy
+  using tapered stripline NMR}. \emph{Journal of Magnetic Resonance},
+  \textbf{263}, 136--146.
+
+\bibitem{Klotz:2011gf}
+Klotz, F., Huebl, H., Heiss, D., Klein, K., Finley, J.J., \bbland{} Brandt,
+  M.S. (2011) {Coplanar stripline antenna design for optically detected
+  magnetic resonance on semiconductor quantum dots}. \emph{Rev. Sci. Instrum.},
+  \textbf{82}~(7), 074\,707.
+
+\bibitem{Jasinski:2012cn}
+Jasi{\'{n}}ski, K., M{\l}ynarczyk, A., Latta, P., Volotovskyy, V.,
+  W{\k{e}}glarz, W.P., \bbland{} Tomanek, B. (2012) {A volume microstrip RF
+  coil for MRI microscopy}. \emph{Magn Reson Imaging}, \textbf{30}~(1), 70--77.
+
+\bibitem{Finch:2016gv}
+Finch, G., Yilmaz, A., \bbland{} Utz, M. (2016) {An optimised detector for
+  in-situ high-resolution NMR in microfluidic devices}. \emph{Journal of
+  Magnetic Resonance}, \textbf{262}, 73--80.
+
+\bibitem{Yusa:2005iy}
+Yusa, G., Muraki, K., Takashina, K., Hashimoto, K., \bbland{} Hirayama, Y.
+  (2005) {Controlled multiple quantum coherences of nuclear spins in a
+  nanometre-scale device}. \emph{Nature}, \textbf{434}~(7036), 1001--1005.
+
+\bibitem{Tycko:2005kj}
+Tycko, R. (2005) { Techniques: NMR on a chip}. \emph{Nature},
+  \textbf{434}~(7036), 966--967.
+
+\bibitem{Kostylev:2009ia}
+Kostylev, M. (2009) {Strong asymmetry of microwave absorption by bilayer
+  conducting ferromagnetic films in the microstrip-line based broadband
+  ferromagnetic resonance}. \emph{Journal of Applied Physics},
+  \textbf{106}~(4), 043\,903.
+
+\bibitem{Kostylev:2010fy}
+Kostylev, M., Stashkevich, A.A., Adeyeye, A.O., Shakespeare, C., Kostylev, N.,
+  Ross, N., Kennewell, K., Magaraggia, R., Roussign{\'e}, Y., \bbland{} Stamps,
+  R.L. (2010) {Magnetization pinning in conducting films demonstrated using
+  broadband ferromagnetic resonance}. \emph{Journal of Applied Physics},
+  \textbf{108}~(10), 103\,914.
+
+\bibitem{Keatley:2005by}
+Keatley, P.S., Kruglyak, V.V., Barman, A., Ladak, S., Hicken, R.J., Scott, J.,
+  \bbland{} Rahman, M. (2005) {Use of microscale coplanar striplines with
+  indium tin oxide windows in optical ferromagnetic resonance measurements}.
+  \emph{Journal of Applied Physics}, \textbf{97}~(10).
+
+\bibitem{ArdenkjaerLarsen:2016jq}
+Ardenkjaer-Larsen, J.H. (2016) {On the present and future of dissolution-DNP}.
+  \emph{Journal of Magnetic Resonance}, \textbf{264}, 3--12.
+
+\bibitem{Sharma:2015ce}
+Sharma, M., Janssen, G., Leggett, J., Kentgens, A.P.M., \bbland{} van Bentum,
+  P.J.M. (2015) {Rapid-melt Dynamic Nuclear Polarization}. \emph{Journal of
+  Magnetic Resonance}, \textbf{258}, 40--48.
+
+\bibitem{Loening:2002wg}
+Loening, N.M., Rosay, M., Weis, V., \bbland{} al, e. (2002) {Solution-state
+  dynamic nuclear polarization at high magnetic field}. \emph{Journal of the
+  American {\ldots}}.
+
+\bibitem{Lingwood:2009jy}
+Lingwood, M.D. \bbland{} Han, S. (2009) {Dynamic nuclear polarization of 13C in
+  aqueous solutions under ambient conditions}. \emph{J. Magn. Reson},
+  \textbf{201}~(2), 137--145.
+
+\bibitem{Griffin:2010cu}
+Griffin, R.G. \bbland{} Prisner, T.F. (2010) {High field dynamic nuclear
+  polarization{\textemdash}the renaissance}. \emph{Physical Chemistry Chemical
+  Physics}, \textbf{12}~(22), 5737--5740.
+
+\bibitem{Annino:2009gd}
+Annino, G., Villanueva-Garibay, J.A., Bentum, P.J.M., Klaassen, A.A.K.,
+  \bbland{} Kentgens, A.P.M. (2009) {A High-Conversion-Factor, Double-Resonance
+  Structure for High-Field Dynamic Nuclear Polarization}. \emph{Appl. Magn.
+  Reson.}, \textbf{37}~(1-4), 851--864.
+
+\bibitem{VillanuevaGaribay:2010cu}
+Villanueva-Garibay, J.A., Annino, G., van Bentum, P.J.M., \bbland{} Kentgens,
+  A.P.M. (2010) {Pushing the limit of liquid-state dynamic nuclear polarization
+  at high field}. \emph{Phys. Chem. Chem. Phys.}, \textbf{12}~(22), 5846.
+
+\bibitem{vanBentum:2011km}
+van Bentum, P.J.M., van~der Heijden, G.H.A., Villanueva-Garibay, J.A.,
+  \bbland{} Kentgens, A.P.M. (2011) {Quantitative analysis of high field liquid
+  state dynamic nuclear polarization}. \emph{Phys. Chem. Chem. Phys.},
+  \textbf{13}~(39), 17\,831--17\,840.
+
+\bibitem{Denysenkov:2010hy}
+Denysenkov, V., Prandolini, M.J., Gafurov, M., Sezer, D., Endeward, B.,
+  \bbland{} Prisner, T.F. (2010) {Liquid state DNP using a 260 GHz high power
+  gyrotron}. \emph{Phys. Chem. Chem. Phys.}, \textbf{12}~(22), 5786--5790.
+
+\bibitem{Denysenkov:2008gf}
+Denysenkov, V.P., Prandolini, M.J., Krahn, A., Gafurov, M., Endeward, B.,
+  \bbland{} Prisner, T.F. (2008) {High-Field DNP Spectrometer for Liquids}.
+  \emph{Appl. Magn. Reson.}, \textbf{34}~(3-4), 289--299.
+
+\bibitem{Denysenkov:2012jy}
+Denysenkov, V. \bbland{} Prisner, T. (2012) {Liquid state Dynamic Nuclear
+  Polarization probe with Fabry{\textendash}Perot resonator at 9.2T}.
+  \emph{Journal of Magnetic Resonance}, \textbf{217}, 1--5.
+
+\bibitem{Prandolini:2009he}
+Prandolini, M.J., Denysenkov, V.P., Gafurov, M., Endeward, B., \bbland{}
+  Prisner, T.F. (2009) {High-Field Dynamic Nuclear Polarization in Aqueous
+  Solutions}. \emph{J Am Chem Soc}, \textbf{131}~(17), 6090--6092.
+
 \end{thebibliography}

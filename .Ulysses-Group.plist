@@ -11,6 +11,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>Waveguides in Micro-NMR Literature.md</string>
+		</array>
+		<array>
 			<string>intro-test.latex</string>
 		</array>
 		<array>
@@ -69,6 +72,12 @@
 		</array>
 		<array>
 			<string>main.tex</string>
+		</array>
+		<array>
+			<string>NMR Detectors.txt</string>
+		</array>
+		<array>
+			<string>waveguides.tex</string>
 		</array>
 	</array>
 </dict>
