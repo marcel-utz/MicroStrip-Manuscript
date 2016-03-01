@@ -3,83 +3,67 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: microstrip.aux
 The style file: wileynum.bst
 Database file #1: literature.bib
-Repeated entry---line 11957 of file literature.bib
+Warning--entry type for "Bridges:1988vz" isn't style-file defined
+--line 10955 of file literature.bib
+Warning--entry type for "Zhang:2006wc" isn't style-file defined
+--line 11804 of file literature.bib
+Warning--entry type for "Boskamp:2006tl" isn't style-file defined
+--line 11897 of file literature.bib
+Repeated entry---line 11950 of file literature.bib
  : @article{hoult1975cfd
  :                      ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "Maguire:2009wc" isn't style-file defined
---line 12291 of file literature.bib
-I was expecting a `,' or a `}'---line 20080 of file literature.bib
+--line 12284 of file literature.bib
+Warning--entry type for "Sweedler:1997tl" isn't style-file defined
+--line 12994 of file literature.bib
+I was expecting a `,' or a `}'---line 20073 of file literature.bib
  : month = {\textasciitilde}
  :                          5,
 I'm skipping whatever remains of this entry
-Repeated entry---line 20428 of file literature.bib
+Repeated entry---line 20421 of file literature.bib
  : @article{webb2005nmr
  :                     ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Zhang2001js"
-Warning--I didn't find a database entry for "Zhang2006wc"
-Warning--I didn't find a database entry for "Boskamp2006tl"
-Warning--I didn't find a database entry for "Sweedler1997tl"
-Warning--I didn't find a database entry for "Lacey1999uu"
-Warning--I didn't find a database entry for "Seeber2000iy"
-Warning--I didn't find a database entry for "Kentgens:2008wu"
-Warning--I didn't find a database entry for "Sakellariou:2007jy"
-Warning--I didn't find a database entry for "Harel2009eg"
-Warning--I didn't find a database entry for "Telkki:2011go"
-Warning--I didn't find a database entry for "Telkki2014jf"
-Warning--I didn't find a database entry for "Massin:2003ty"
-Warning--I didn't find a database entry for "Wensink:2005fs"
-Warning--I didn't find a database entry for "Spengler:2014r"
-Warning--I didn't find a database entry for "Gobel:2014n"
-Warning--I didn't find a database entry for "Maguire:2004wc"
-Warning--I didn't find a database entry for "Krojanski:2008ut"
-Warning--I didn't find a database entry for "REF:Mispelter"
-Warning--I didn't find a database entry for "Pan:2007uk"
-Warning--I didn't find a database entry for "Zhang2010kf"
-Warning--empty journal in Bridges:1988vz
-Warning--empty author in Adriany:2005cw
-Name 2 in "{K Yamauchi} and T Imada, and and Asakura, T" has a comma at the end for entry KYamauchi:2005jv
-while executing---line 1446 of file wileynum.bst
-You've used 92 entries,
+You've used 110 entries,
             2913 wiz_defined-function locations,
-            1265 strings with 24907 characters,
-and the built_in function-call counts, 76949 in all, are:
-= -- 9544
-> -- 1403
+            1323 strings with 28460 characters,
+and the built_in function-call counts, 90801 in all, are:
+= -- 11151
+> -- 1733
 < -- 4
-+ -- 976
-- -- 409
-* -- 3432
-:= -- 5713
-add.period$ -- 174
-call.type$ -- 92
-change.case$ -- 87
++ -- 1168
+- -- 507
+* -- 4082
+:= -- 6799
+add.period$ -- 206
+call.type$ -- 110
+change.case$ -- 104
 chr.to.int$ -- 0
-cite$ -- 94
-duplicate$ -- 9418
-empty$ -- 4771
-format.name$ -- 493
-if$ -- 16398
+cite$ -- 110
+duplicate$ -- 11077
+empty$ -- 5667
+format.name$ -- 609
+if$ -- 19352
 int.to.chr$ -- 0
-int.to.str$ -- 92
-missing$ -- 1028
-newline$ -- 288
-num.names$ -- 91
-pop$ -- 3350
+int.to.str$ -- 110
+missing$ -- 1236
+newline$ -- 342
+num.names$ -- 110
+pop$ -- 3936
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 4998
+skip$ -- 5844
 stack$ -- 0
-substring$ -- 3895
-swap$ -- 8860
+substring$ -- 4537
+swap$ -- 10413
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 92
-warning$ -- 2
-while$ -- 318
-width$ -- 94
-write$ -- 828
-(There were 4 error messages)
+type$ -- 110
+warning$ -- 0
+while$ -- 377
+width$ -- 113
+write$ -- 989
+(There were 3 error messages)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -74,9 +74,9 @@ Barret, R.M. (1955) {Microwave Printed Circuits - A Historical Survey}.
   1--9.
 
 \bibitem{Bridges:1988vz}
-Bridges, J.F. \bbland{} {Advanced Nmr Systems, Inc.} (1988) {Cavity resonator
+Bridges, J.F. \bbland{} {Advanced Nmr Systems, Inc.} (1988), {Cavity resonator
   with improved magnetic field uniformity for high frequency operation and
-  reduced dielectric heating in NMR imaging devices}.
+  reduced dielectric heating in NMR imaging devices}, US Patent Office.
 
 \bibitem{Bogdanov:2002gv}
 Bogdanov, G. \bbland{} Ludwig, R. (2002) {Coupled microstrip line transverse
@@ -88,6 +88,11 @@ Hayes, C.E., Edelstein, W.A., Schenck, J.F., Mueller, O.M., \bbland{} Eash, M.
   (1985) \emph{{An efficient, highly homogeneous radiofrequency coil for
   whole-body NMR imaging at 1.5 T}}, \bblvol{}~63, Journal of Magnetic
   {\ldots}.
+
+\bibitem{Zhang:2006wc}
+Zhang, X., Ugurbil, K., Chen, W., \bbland{} {Regents Of The University Of
+  Minnesota} (2006), {Method and apparatus for magnetic resonance imaging and
+  spectroscopy using microstrip transmission line coils}, US Patent Office.
 
 \bibitem{Zhang:2005cr}
 Zhang, X., Zhu, X.H., \bbland{} Chen, W. (2005) {Higher-order harmonic
@@ -116,6 +121,11 @@ Lee, R.F., Westgate, C.R., Weiss, R.G., Newman, D.C., \bbland{} Bottomley, P.A.
   (2001) {Planar strip array (PSA) for MRI}. \emph{Magn. Reson. Med.},
   \textbf{45}~(4), 673--683.
 
+\bibitem{Boskamp:2006tl}
+Boskamp, E.B., Lee, R.F., \bbland{} Ge~Medical Systems Global
+  Technology~Company, L. (2006), {Multiple channel, microstrip transceiver
+  volume array for magnetic resonance imaging}, US Patent Office.
+
 \bibitem{Roemer:1990gs}
 Roemer, P.B., Edelstein, W.A., Hayes, C.E., Souza, S.P., \bbland{} Mueller,
   O.M. (1990) {The NMR phased array}. \emph{Magn. Reson. Med.},
@@ -134,8 +144,11 @@ van~den Bergen, B., Klomp, D.W.J., Raaijmakers, A.J.E., de~Castro, C.A., Boer,
   Biomedicine}, \textbf{24}, 358--365.
 
 \bibitem{Adriany:2005cw}
- (2005) {Transmit and receive transmission line arrays for 7 Tesla parallel
-  imaging}. \emph{Magn. Reson. Med.}, \textbf{53}~(2), 434--445.
+Adriany, G., Van~de Moortele, P.F., Wiesinger, F., Moeller, S., Strupp, J.P.,
+  Andersen, P., Snyder, C., Zhang, X., Chen, W., Pruessmann, K.P., Boesiger,
+  P., Vaughan, T., \bbland{} U~urbil, K.m. (2005) {Transmit and receive
+  transmission line arrays for 7 Tesla parallel imaging}. \emph{Magn. Reson.
+  Med.}, \textbf{53}~(2), 434--445.
 
 \bibitem{Wu:2006bs}
 Wu, B., Zhang, X., Qu, P., \bbland{} Shen, G.X. (2006) {Design of an
@@ -165,6 +178,17 @@ Olson, D., Peck, T., Webb, A., Magin, R., \bbland{} Sweedler, J. (1995)
   {High-Resolution Microcoil\^ 1H-NMR for Mass-Limited, Nanoliter-Volume
   Samples}. \emph{Science}, \textbf{270}~(5244), 1967--1970.
 
+\bibitem{Sweedler:1997tl}
+Sweedler, J.V., Peck, T.L., Webb, A.G., Magin, R.L., Wu, N., \bbland{} {The
+  Board Of Trustees Of The University Of Illinois} (1997), {Method and
+  apparatus for NMR spectroscopy of nanoliter volume samples}, US Patent
+  Office.
+
+\bibitem{Lacey:1999vk}
+Lacey, M.E., Subramanian, R., Olson, D., Webb, A., \bbland{} Sweedler, J.
+  (1999) {High-resolution NMR spectroscopy of sample volumes from 1 nL to 10 mu
+  L}. \emph{Chem. Rev}, \textbf{99}~(10), 3133--+.
+
 \bibitem{Peck:1994hh}
 Peck, T., Webb, A., Wu, N., Magin, R., \bbland{} Sweedler, J. (1994)
   \emph{{On-line NMR detection in capillary electrophoresis using an RF
@@ -188,15 +212,33 @@ Lacey, M.E., Tan, Z.J., Webb, A.G., \bbland{} Sweedler, J.V. (2001) {Union of
   of terpenoids}. \emph{Journal of Chromatography A}, \textbf{922}~(1-2),
   139--149.
 
+\bibitem{Seeber:2000iy}
+Seeber, D.A., Hoftiezer, J.H., Daniel, W.B., Rutgers, M.A., \bbland{}
+  Pennington, C.H. (2000) {Triaxial magnetic field gradient system for
+  microcoil magnetic resonance imaging}. \emph{Review of Scientific
+  Instruments}, \textbf{71}~(11), 4263--4272.
+
 \bibitem{Ciobanu:2002wo}
 Ciobanu, L. \bbland{} Seeber, D. (2002) {ScienceDirect.com - Journal of
   Magnetic Resonance - 3D MR microscopy with resolution 3.7$\mu$m by 3.3$\mu$m
   by 3.3$\mu$m}. \emph{Journal of Magnetic Resonance}.
 
 \bibitem{KYamauchi:2005jv}
-{K Yamauchi}, Imada, T., , \bbland{} Asakura, T. (2005) \emph{{Use of Microcoil
+{K Yamauchi}, Imada, T., \bbland{} Asakura, T. (2005) \emph{{Use of Microcoil
   Probehead for Determination of the Structure of Oriented Silk Fibers by
   Solid-State NMR}}, \bblvol{} 109, American Chemical Society.
+
+\bibitem{Kentgens:2008ch}
+Kentgens, A.P.M., Bart, J., van Bentum, P.J.M., Brinkmann, A., van Eck, E.,
+  Gardeniers, J.G.E., Janssen, J.W.G., Knijn, P., Vasa, S., \bbland{}
+  Verkuijlen, M.H.W. (2008) {High-resolution liquid- and solid-state nuclear
+  magnetic resonance of nanoliter sample volumes using microcoil detectors}.
+  \emph{J Chem Phys}, \textbf{128}~(5), --.
+
+\bibitem{sakellariou2007hrh}
+Sakellariou, D., Goff, G.L., \bbland{} Jacquinot, J.F. (2007) {High-resolution,
+  high-sensitivity NMR of nanolitre anisotropic samples by coil spinning}.
+  \emph{Nature}, \textbf{447}~(7145), 694--697.
 
 \bibitem{Jacquinot:2011cj}
 Jacquinot, J.F. \bbland{} Sakellariou, D. (2011) {NMR Signal Detection using
@@ -235,10 +277,25 @@ Ledbetter, M.P., Savukov, I.M., Budker, D., Shah, V., Knappe, S., Kitching, J.,
   detection of NMR with a microfabricated atomic magnetometer.} \emph{Proc.
   Natl. Acad. Sci. USA}, \textbf{105}~(7), 2286--2290.
 
+\bibitem{Harel:2009eg}
+Harel, E. (2009) {Magnetic resonance detection: spectroscopy and imaging of
+  lab-on-a-chip}. \emph{Lab Chip}, \textbf{9}~(1), 17--23.
+
 \bibitem{Bajaj:2010cy}
 Bajaj, V.S., Paulsen, J., Harel, E., \bbland{} Pines, A. (2010) {Zooming In on
   Microscopic Flow by Remotely Detected MRI}. \emph{Science},
   \textbf{330}~(6007), 1078--1081.
+
+\bibitem{Telkki:2011wi}
+Telkki, V.V. \bbland{} Zhivonitko, V.V. (2011) {Analysis of remote detection
+  travel time curves measured from microfluidic channels}. \emph{J. Magn.
+  Reson}, \textbf{210}~(2), 238--245.
+
+\bibitem{Telkki:2014jf}
+Telkki, V.V., Zhivonitko, V.V., Selent, A., Scotti, G., Lepp{\"a}niemi, J.,
+  Franssila, S., \bbland{} Koptyug, I.V. (2014) {Lab-on-a-Chip Reactor Imaging
+  with Unprecedented Chemical Resolution by Hadamard-Encoded Remote Detection
+  NMR}. \emph{Angew. Chem.}, \textbf{126}~(42), 11\,471--11\,475.
 
 \bibitem{Badilita:2010hb}
 Badilita, V., Kratt, K., Baxan, N., Mohmmadzadeh, M., Burger, T., Weber, H.,
@@ -262,10 +319,22 @@ Massin, C., Boero, G., Vincent, F., Abenhaim, J., Besse, P., \bbland{} Popovic,
   spectroscopy}. \emph{Sensors {\&} Actuators: A. Physical}, \textbf{97-98},
   280--288.
 
+\bibitem{massin2003pmb}
+Massin, C., Vincent, F., Homsy, A., Ehrmann, K., Boero, G., Besse, P., Daridon,
+  A., Verpoorte, E., de~Rooij, N., \bbland{} Popovic, R. (2003) {Planar
+  microcoil-based microfluidic NMR probes}. \emph{Journal of Magnetic
+  Resonance}, \textbf{164}~(2), 242--255.
+
 \bibitem{Wensink:2004kd}
 Wensink, H., Hermes, D.C., \bbland{} van~den Berg, A. (2004) {High signal to
   noise ratio in low field NMR on chip, simulations and experimental results},
   \bblin{} \emph{MEMSYS-04}, IEEE, \bblpp{} 407--410.
+
+\bibitem{wensink2005mrk}
+Wensink, H., Benito-Lopez, F., Hermes, D.C., Verboom, W., Gardeniers, H.J.G.E.,
+  Reinhoudt, D.N., \bbland{} van~den Berg, A. (2005) {Measuring reaction
+  kinetics in a lab-on-a-chip by microcoil NMR}. \emph{Lab Chip},
+  \textbf{5}~(3), 280--284.
 
 \bibitem{Gomez:2010jr}
 Gomez, M.V., Verputten, H.H.J., D{\'\i}az-Ort{\'\i}z, A., Moreno, A., de~la
@@ -285,6 +354,12 @@ Boero, G., Bouterfas, M., Massin, C., Vincent, F., Besse, P., Popovic, R.S.,
   $\mu$m planar microcoil}. \emph{Review of Scientific Instruments},
   \textbf{74}~(11), 4794--4798.
 
+\bibitem{Spengler:2014ir}
+Spengler, N., Moazenzadeh, A., Meier, R.C., Badilita, V., Korvink, J.G.,
+  \bbland{} Wallrabe, U. (2014) {Micro-fabricated Helmholtz coil featuring
+  disposable microfluidic sample inserts for applications in nuclear magnetic
+  resonance}. \emph{J. Micromech. Microeng.}, \textbf{24}~(3), 034\,004.
+
 \bibitem{Spengler:2016km}
 Spengler, N., H{\"o}fflin, J., Moazenzadeh, A., Mager, D., MacKinnon, N.,
   Badilita, V., Wallrabe, U., \bbland{} Korvink, J.G. (2016) {Heteronuclear
@@ -297,6 +372,11 @@ Gruschke, O.G., Baxan, N., Clad, L., Kratt, K., von Elverfeldt, D., Peter, A.,
   Hennig, J., Badilita, V., Wallrabe, U., \bbland{} Korvink, J.G. (2012) {Lab
   on a chip phased array MR multi-platform analysis system}. \emph{Lab Chip},
   \textbf{12}~(3), 495--502.
+
+\bibitem{Gobel:2014tf}
+G{\"o}bel, K., Gruschke, O.G., \bbland{} Leupold, J. (2014) {Phased array of
+  microcoils allows MR microscopy of ex vivo human skin samples at 9.4 T}.
+  \emph{Skin Res. Techn.}, \textbf{0}, 1--8.
 
 \bibitem{Oligschlager:2015fl}
 Oligschl{\"a}ger, D., Lehmkuhl, S., Watzlaw, J., Benders, S., de~Boever, E.,
@@ -311,6 +391,11 @@ Maguire, Y., Chuang, I., Zhang, S., \bbland{} Gershenfeld, N. (2007)
   nuclear spin resonance}. \emph{Proc. Natl. Acad. Sci. USA},
   \textbf{104}~(22), 9198--9203.
 
+\bibitem{krojanski2008mnp}
+Krojanski, H., Lambert, J., Gerikalan, Y., Suter, D., \bbland{}
+  Hergenr{\"o}der, R. (2008) {Microslot NMR probe for metabolomics studies.}
+  \emph{Anal. Chem}, \textbf{80}~(22), 8668.
+
 \bibitem{Kalfe:2015ik}
 Kalfe, A., Telfah, A., Lambert, J., \bbland{} Hergenr{\"o}der, R. (2015)
   {Looking into Living Cell Systems: Planar Waveguide Microfluidic NMR Detector
@@ -321,6 +406,11 @@ Kalfe, A., Telfah, A., Lambert, J., \bbland{} Hergenr{\"o}der, R. (2015)
 Murphree, D., Cahn, S.B., Rahmlow, D., \bbland{} DeMille, D. (2007) {An easily
   constructed, tuning free, ultra-broadband probe for NMR}. \emph{Journal of
   Magnetic Resonance}, \textbf{188}~(1), 160--167.
+
+\bibitem{Mispelter:2006ty}
+Mispelter, J., Lupu, M., \bbland{} Briguet, A. (2006) \emph{{NMR Probeheads for
+  Biophysical and Biomedical Experiments}}, Theoretical Principles {\&}
+  Practical Guidelines, Imperial College Press.
 
 \bibitem{Zhang:2008uh}
 Zhang, X., Wang, C., Xie, Z., \bbland{} Wu, B. (2008) {Non-resonant microstrip
@@ -415,6 +505,16 @@ Jasi{\'{n}}ski, K., M{\l}ynarczyk, A., Latta, P., Volotovskyy, V.,
 Finch, G., Yilmaz, A., \bbland{} Utz, M. (2016) {An optimised detector for
   in-situ high-resolution NMR in microfluidic devices}. \emph{Journal of
   Magnetic Resonance}, \textbf{262}, 73--80.
+
+\bibitem{pan2007cac}
+Pan, Z. \bbland{} Raftery, D. (2007) {Comparing and combining NMR spectroscopy
+  and mass spectrometry in metabolomics}. \emph{Analytical and Bioanalytical
+  Chemistry}, \textbf{387}~(2), 525--527.
+
+\bibitem{Zhang:2010kf}
+Zhang, S., Gowda, G.A.N., Ye, T., \bbland{} Raftery, D. (2010) {Advances in NMR
+  -based biofluid analysis and metabolite profiling}. \emph{Analyst},
+  \textbf{135}~(7), 1490--1498.
 
 \bibitem{Yusa:2005iy}
 Yusa, G., Muraki, K., Takashina, K., Hashimoto, K., \bbland{} Hirayama, Y.

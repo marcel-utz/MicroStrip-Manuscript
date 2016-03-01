@@ -5089,7 +5089,7 @@ month = nov
 }
 
 @book{KYamauchi:2005jv,
-author = {{K Yamauchi} and Imada, T and Asakura, T},
+author = {{K Yamauchi} and T Imada, and and Asakura, T},
 title = {{Use of Microcoil Probehead for Determination of the Structure of Oriented Silk Fibers by Solid-State NMR}},
 publisher = {American Chemical Society},
 year = {2005},
@@ -5827,6 +5827,16 @@ title = {{Huang2002a}},
 year = {2002},
 pages = {13},
 month = may
+}
+
+@article{sakellariou2007hrh,
+author = {Sakellariou, D and Le Goff, G and Jacquinot, JF},
+title = {{High-resolution, high-sensitivity NMR of nanolitre anisotropic samples by coil spinning}},
+journal = {Nature},
+year = {2007},
+volume = {447},
+number = {7145},
+pages = {694--697}
 }
 
 @article{Anonymous:Ha2xSlem,
@@ -7039,6 +7049,12 @@ year = {2000},
 pages = {8}
 }
 
+@article{Barbre:2011tt,
+author = {Barbre, E A},
+title = {{"LASER ETCHED PMMA MICROFLUIDIC CHIP DESIGN AND MANUFACTURE WITH APPLIC" by Evan Allen Barbre}},
+year = {2011}
+}
+
 @article{FredericLaugere:2002bo,
 author = {{Frederic Laugere} and {Rosanne M Guijt} and {Jeroen Bastemeijer} and {Gert van der Steen} and {Axel Berthold} and {Erik Baltussen} and {Pascalina Sarro} and {Gijs W K van Dedem} and Michiel Vellekoop, and and Bossche, Andre},
 title = {{On-Chip Contactless Four-Electrode Conductivity Detection for Capillary Electrophoresis Devices}},
@@ -7048,12 +7064,6 @@ volume = {75},
 number = {2},
 pages = {306--312},
 month = dec
-}
-
-@article{Barbre:2011tt,
-author = {Barbre, E A},
-title = {{"LASER ETCHED PMMA MICROFLUIDIC CHIP DESIGN AND MANUFACTURE WITH APPLIC" by Evan Allen Barbre}},
-year = {2011}
 }
 
 @article{UCHIYAMA:1999dp,
@@ -10949,12 +10959,11 @@ number = {12},
 pages = {6--6}
 }
 
-@patent{Bridges:1988vz,
-title = {{Cavity resonator with improved magnetic field uniformity for high frequency operation and reduced dielectric heating in NMR imaging devices}},
+@article{Bridges:1988vz,
 author = {Bridges, James F and {Advanced Nmr Systems, Inc.}},
-howpublished = {US Patent Office},
-month = jun,
-year = {1988}
+title = {{Cavity resonator with improved magnetic field uniformity for high frequency operation and reduced dielectric heating in NMR imaging devices}},
+year = {1988},
+month = jun
 }
 
 @article{Gascoyne:2004di,
@@ -11798,12 +11807,11 @@ number = {2},
 pages = {--}
 }
 
-@patent{Zhang:2006wc,
-title = {{Method and apparatus for magnetic resonance imaging and spectroscopy using microstrip transmission line coils}},
+@article{Zhang:2006wc,
 author = {Zhang, Xiaoliang and Ugurbil, Kamil and Chen, Wei and {Regents Of The University Of Minnesota}},
-howpublished = {US Patent Office},
-month = apr,
-year = {2006}
+title = {{Method and apparatus for magnetic resonance imaging and spectroscopy using microstrip transmission line coils}},
+year = {2006},
+month = apr
 }
 
 @incollection{hoult1996en,
@@ -11891,12 +11899,11 @@ number = {11},
 pages = {5403--5411}
 }
 
-@patent{Boskamp:2006tl,
-title = {{Multiple channel, microstrip transceiver volume array for magnetic resonance imaging}},
+@article{Boskamp:2006tl,
 author = {Boskamp, Eddy Benjamin and Lee, Ray F and Ge Medical Systems Global Technology Company, Llc},
-howpublished = {US Patent Office},
-month = feb,
-year = {2006}
+title = {{Multiple channel, microstrip transceiver volume array for magnetic resonance imaging}},
+year = {2006},
+month = feb
 }
 
 @article{Anonymous:1999p1475,
@@ -12915,7 +12922,7 @@ pages = {1517--1521}
 }
 
 @article{Scully:1987eb,
-author = {Scully, Marlan O and Lamb Jr., Willis E and Barut, Asim},
+author = {Scully, Marlan O and Lamb, Jr., Willis E and Barut, Asim},
 title = {{On the theory of the Stern-Gerlach apparatus}},
 journal = {Found Phys},
 year = {1987},
@@ -12987,12 +12994,11 @@ pages = {104--113},
 month = nov
 }
 
-@patent{Sweedler:1997tl,
-title = {{Method and apparatus for NMR spectroscopy of nanoliter volume samples}},
+@article{Sweedler:1997tl,
 author = {Sweedler, Jonathan V and Peck, Timothy L and Webb, Andrew G and Magin, Richard L and Wu, Nian and {The Board Of Trustees Of The University Of Illinois}},
-howpublished = {US Patent Office},
-month = aug,
-year = {1997}
+title = {{Method and apparatus for NMR spectroscopy of nanoliter volume samples}},
+year = {1997},
+month = aug
 }
 
 @article{Anonymous:Cy81Q77H,
@@ -17308,6 +17314,16 @@ number = {15},
 pages = {3853--3858}
 }
 
+@article{sakellariou2007hrh,
+author = {Sakellariou, D and Le Goff, G and Jacquinot, JF},
+title = {{High-resolution, high-sensitivity NMR of nanolitre anisotropic samples by coil spinning}},
+journal = {Nature},
+year = {2007},
+volume = {447},
+number = {7145},
+pages = {694--697}
+}
+
 @article{Trumbull:2000vb,
 author = {Trumbull, JD and Glasgow, IK},
 title = {{IEEE Xplore - Abstract Page}},
@@ -19113,15 +19129,6 @@ pages = {1--10},
 month = nov
 }
 
-@book{Mispelter:2006ty,
-author = {Mispelter, Jo{\"e}l and Lupu, Mihaela and Briguet, Andr{\'e}},
-title = {{NMR Probeheads for Biophysical and Biomedical Experiments}},
-publisher = {Imperial College Press},
-year = {2006},
-series = {Theoretical Principles {\&} Practical Guidelines},
-month = jan
-}
-
 @article{Anonymous:2003p1436,
 title = {{Raftery91a}},
 year = {2003},
@@ -20494,7 +20501,6 @@ year = {1998}
 }
 
 @article{Adriany:2005cw,
-author = {Adriany, Gregor and Van de Moortele, Pierre-Francois and Wiesinger, Florian and Moeller, Steen and Strupp, John P and Andersen, Peter and Snyder, Carl and Zhang, Xiaoliang and Chen, Wei and Pruessmann, Klaas P and Boesiger, Peter and Vaughan, Tommy and U urbil, K mil},
 title = {{Transmit and receive transmission line arrays for 7 Tesla parallel imaging}},
 journal = {Magn. Reson. Med.},
 year = {2005},

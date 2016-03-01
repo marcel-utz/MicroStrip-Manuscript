@@ -21,7 +21,7 @@ concomitantly induced noise, become more difficult to manage at higher
 magnetic fields. With the advent of 3.5T and later 7T NMR scanners,
 strategies for limiting the penetration of electric fields into the
 sample, as well as for reducing radiation losses, were needed. Zhang et
-al \cite{Zhang2001js,Zhang2006wc} demonstrated that single square loop
+al \cite{Zhang:2001js,Zhang:2006wc} demonstrated that single square loop
 surface coils made from a microstrip provided significant advantages
 over conventional loop coils of comparable dimensions. These loops
 consist of a microstrip designed to support a
@@ -44,7 +44,7 @@ can be shunted to the ground plane by means of DC-biased PIN diodes
 \cite{Vaughan:2002cs}. This allows the simultaneous use of localised
 receiver coils inside the volume resonator without mutual coupling
 artefacts. Lee et al. proposed an array of planar microstrips
-\cite{Lee:2001ji,Boskamp2006tl} for phased-array detection
+\cite{Lee:2001ji,Boskamp:2006tl} for phased-array detection
 \cite{Roemer:1990gs,Hoult:2004gm}. Their design exploits an intriguing
 property of identical parallel and coplanar microstrips: standing wave
 modes in adjacent strips are automatically decoupled from each other by
@@ -80,21 +80,21 @@ lower, and the SNR for areas closer to the receiver was higher for the
 microstrip resonator. \#\#\# Microfluidic NMR It was demonstrated in the
 early 1990s that micro-solenoid coils, with diameters more than an order
 of magnitude smaller than conventional detectors, exhibit very high mass
-sensitivity \cite{Olson:1995vu,Sweedler1997tl,Lacey1999uu}, and thus allow
+sensitivity \cite{Olson:1995vu,Sweedler:1997tl,Lacey:1999vk}, and thus allow
 direct combination of chromatographic separation techniques such as
 capillary electrophoresis \cite{Peck:1994hh,Wu:1994ks,Olson:1999ed} and
 high-pressure liquid chromatography \cite{Lacey:2001dr}. Solenoidal micro
 coils have also been used successfully for micro-imaging
-\cite{Seeber2000iy,Ciobanu:2002wo}, achieving resolutions approaching the
+\cite{Seeber:2000iy,Ciobanu:2002wo}, achieving resolutions approaching the
 single cell length scale. In solid-state NMR, micro coils have been used
 for statically, for example for studying spider silk
 \cite{KYamauchi:2005jv}, but also under Magic-angle spinning (MAS) NMR has
 been made possible by attaching the micro-scale sample to a conventional
-MAS rotor, and surrounding it by a micro-solenoid \cite{Kentgens:2008wu}.
+MAS rotor, and surrounding it by a micro-solenoid \cite{Kentgens:2008ch}.
 Another possibility is to insert a tuned micro coil into the MAS rotor,
 and spinning it together with the sample. The coil is then inductively
 coupled to the macroscopic probe coil
-\cite{Sakellariou:2007jy,Jacquinot:2011cj}. In recent years, MAS probes
+\cite{sakellariou2007hrh,Jacquinot:2011cj}. In recent years, MAS probes
 capable of very high spinning speeds, exceeding 100kHz, have been
 demonstrated, and are now commercially available. In these systems, the
 sample diameter has to be kept small in order to limit the inertial
@@ -111,7 +111,7 @@ capillary through a micro coil, where the NMR signal is recorded. In
 this way, the velocity distribution as well as chemical reaction
 dynamics in microfluidic systems have been characterised in real time
 \cite{Hilty:2005eq, McDonnell:2005dn,Harel:2007bs, Bouchard:2008hv,
-Ledbetter:2008kp,Harel2009eg,Bajaj:2010cy,Telkki:2011go,Telkki2014jf}.
+Ledbetter:2008kp,Harel:2009eg,Bajaj:2010cy,Telkki:2011wi,Telkki:2014jf}.
 
 \subsubsection{NMR and Microfluidics: Planar
 Detectors}\label{nmr-and-microfluidics-planar-detectors}
@@ -148,7 +148,7 @@ fabrication of the spiral coil structure by lift-off lithography and
 subsequent electroplating onto a glass microfluidic chip
 \cite{Massin:2002bj}. This allows thicker conductors, significantly
 reducing ohmic losses. Microfluidic probes based on this design
-\cite{Massin:2003ty} reached limits of detection of 260 nMol sqrt(s) at 470
+\cite{massin2003pmb} reached limits of detection of 260 nMol sqrt(s) at 470
 nL probe volume, and 20 nMol sqrt(s) at 30 nL probe volume (LoD values
 scaled to 600 MHz proton frequency). However, the spectral resolution
 was quite poor, insufficient to resolve homonuclear J couplings in the
@@ -156,7 +156,7 @@ was quite poor, insufficient to resolve homonuclear J couplings in the
 the spiral coil in Massin et al.s design, better resolution was achieved
 by arranging it in a linear channel aligned with the magnetic field
 \cite{Wensink:2004kd}, making it possible to monitor the on-chip
-condensation of benzaldehyde and aniline \cite{Wensink:2005fs}; further
+condensation of benzaldehyde and aniline \cite{wensink2005mrk}; further
 applications of planar spiral coil designs to microfluidic reaction
 monitoring followed \cite{Gomez:2010jr,Yue:2012fw}. Planar spiral coils
 have also been applied to EPR spectroscopy \cite{Boero:2003hf} at the micro
@@ -164,14 +164,17 @@ scale.\\Placing planar coils on both sides of the sample leads to the
 concept of micro-Helmholtz coils. These provide potentially high
 sensitivity and B1 homogeneity, but present considerable fabrication
 challenges. An elegant implementation has recently been described by
-Spengler et al. \cite{Spengler:2014r,Spengler:2016km}. Phased arrays
+Spengler et al. \cite{Spengler:2014ir,Spengler:2016km}. Phased arrays
 provide another potential approach to planar micro-NMR detectors. A
 proof of concept has been given by Gruschke et al, who have demonstrated
 a system of 7 partially overlapping coils fabricated using a
 wire-bonding process \cite{Gruschke:2012df}. This detector has been used
-successfully to image human skin samples \cite{Gobel:2014n} and to study
+successfully to image human skin samples \cite{Gobel:2014tf} and to study
 porous media using a single-sided, permanent magnet spectrometer
-\cite{Oligschlager:2015fl}. \#\#\# Microstrips for Micro-NMR Given the
+\cite{Oligschlager:2015fl}.
+
+\paragraph{Microstrips for Micro-NMR}
+Given the
 difficulty of integrating three-dimensional coils with planar
 microfluidic devices, and the benefits that linear structures aligned
 with the B0 magnetic field offer in terms of field homogeneity, it is
@@ -182,7 +185,7 @@ the order of the wavelength, which amounts to tens of centimetres for
 typical NMR Larmor frequencies. Maguire et al. therefore proposed
 slotted microstrips as a means to concentrate the RF magnetic field, and
 therefore the sensitivity, to a mm-sized area
-\cite{Maguire:2004wc,Maguire:2007ko}. Their design was based on a single
+\cite{Maguire:2009wc,Maguire:2007ko}. Their design was based on a single
 microstrip conductor of 0.3 mm width and about 5 mm length, fabricated
 using RF printed circuit board material using standard wet-etching
 techniques. At the centre of this structure, a square-shaped piece of
@@ -200,7 +203,7 @@ have since been applied successfully for studying the metabolism of
 biological systems. In one of the first credible demonstrations of
 microfluidic NMR metabolomics, a microslot detector was applied to
 obtain NMR spectra of a metabolite concentrate from a cell line by
-Krojansi et al \cite{Krojanski:2008ut}. More recently, the exa-metabolome
+Krojansi et al \cite{krojanski2008mnp}. More recently, the exa-metabolome
 of a tumour spheroid was observed directly by combining the microslot
 detector with an evaporation-driven perfusion micro-device
 \cite{Kalfe:2015ik}. 
@@ -215,7 +218,7 @@ microstrips are designed to have a specific impedance of 50 Ohm, and are
 terminated by a 50 Ohm resistor between the microstrip and ground
 conductors. Unlike typical NMR detectors, this system does not rely on
 an electromagnetic resonance (standing wave) in order to couple the
-detector to the transmitter/receiver system \cite{REF:Mispelter}. Instead,
+detector to the transmitter/receiver system \cite{Mispelter:2006ty}. Instead,
 a travelling TEM wave is directly coupled to the precessing nuclear
 spins. The most notable advantage of this approach, commonly referred to
 as travelling-wave NMR, is its broad-band nature, which makes it simple
@@ -417,7 +420,7 @@ detection of nLODw = 2 nMol sqrt(s) (based on signal averaging over
 multiple transients), at a line width of 1.78 Hz (at 7 T). Importantly,
 the line widths at 0.5\% and 0.1\% height were inside of a Lorentzian
 line with the same half-width. This baseline resolution is of particular
-importance in metabolomic studies \cite{Pan:2007uk,Zhang2010kf}, where
+importance in metabolomic studies \cite{pan2007cac,Zhang:2010kf}, where
 signals of widely differing intensity appear, and broad feet from strong
 lines can obscure weaker signals. 
 
