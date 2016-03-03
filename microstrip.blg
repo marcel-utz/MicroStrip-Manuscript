@@ -25,45 +25,45 @@ Repeated entry---line 20452 of file literature.bib
  : @article{webb2005nmr
  :                     ,
 I'm skipping whatever remains of this entry
-You've used 114 entries,
+You've used 115 entries,
             2913 wiz_defined-function locations,
-            1348 strings with 29093 characters,
-and the built_in function-call counts, 94218 in all, are:
-= -- 11581
-> -- 1781
+            1354 strings with 29227 characters,
+and the built_in function-call counts, 94955 in all, are:
+= -- 11677
+> -- 1789
 < -- 8
-+ -- 1203
-- -- 520
-* -- 4223
-:= -- 7049
-add.period$ -- 213
-call.type$ -- 114
-change.case$ -- 109
++ -- 1210
+- -- 522
+* -- 4254
+:= -- 7102
+add.period$ -- 215
+call.type$ -- 115
+change.case$ -- 110
 chr.to.int$ -- 6
-cite$ -- 114
-duplicate$ -- 11492
-empty$ -- 5886
-format.name$ -- 625
-if$ -- 20104
+cite$ -- 115
+duplicate$ -- 11584
+empty$ -- 5934
+format.name$ -- 628
+if$ -- 20263
 int.to.chr$ -- 0
-int.to.str$ -- 114
-missing$ -- 1279
-newline$ -- 354
-num.names$ -- 114
-pop$ -- 4084
+int.to.str$ -- 115
+missing$ -- 1288
+newline$ -- 357
+num.names$ -- 115
+pop$ -- 4117
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 6071
+skip$ -- 6119
 stack$ -- 0
-substring$ -- 4713
-swap$ -- 10800
+substring$ -- 4750
+swap$ -- 10886
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 114
+type$ -- 115
 warning$ -- 0
-while$ -- 396
-width$ -- 117
-write$ -- 1027
+while$ -- 400
+width$ -- 118
+write$ -- 1036
 (There were 3 error messages)
