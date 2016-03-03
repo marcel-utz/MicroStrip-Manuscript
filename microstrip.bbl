@@ -68,6 +68,10 @@ Bart, J., Janssen, J.W.G., van Bentum, P.J.M., Kentgens, A.P.M., \bbland{}
   Gardeniers, J.G.E. (2009) {Optimization of stripline-based microfluidic chips
   for high-resolution NMR}. \emph{J. Magn. Reson}, \textbf{201}~(2), 175--185.
 
+\bibitem{Pozar:2012to}
+Pozar, D. (2012) \emph{{Microwave Engineering}}, John Wiley {\&} Sons,
+  \bblfourtho{} \bbledn{}.
+
 \bibitem{Barret:1955ie}
 Barret, R.M. (1955) {Microwave Printed Circuits - A Historical Survey}.
   \emph{Microwave Theory and Techniques, IRE Transactions on}, \textbf{3}~(2),
@@ -98,6 +102,11 @@ Zhang, X., Ugurbil, K., Chen, W., \bbland{} {Regents Of The University Of
 Zhang, X., Zhu, X.H., \bbland{} Chen, W. (2005) {Higher-order harmonic
   transmission-line RF coil design for MR applications}. \emph{Magn. Reson.
   Med.}, \textbf{53}~(5), 1234--1239.
+
+\bibitem{Burian:2004fg}
+Burian, M. \bbland{} H{\'a}jek, M. (2004) {Linear microstrip surface coil for
+  MR imaging of the rat spinal cord at 4.7 T}. \emph{Magn Reson Mater Phy},
+  \textbf{17}~(3-6), 359--362.
 
 \bibitem{Zhang:2003ju}
 Zhang, X., Ugurbil, K., \bbland{} Chen, W. (2003) {A microstrip transmission
@@ -391,16 +400,16 @@ Maguire, Y., Chuang, I., Zhang, S., \bbland{} Gershenfeld, N. (2007)
   nuclear spin resonance}. \emph{Proc. Natl. Acad. Sci. USA},
   \textbf{104}~(22), 9198--9203.
 
-\bibitem{krojanski2008mnp}
-Krojanski, H., Lambert, J., Gerikalan, Y., Suter, D., \bbland{}
-  Hergenr{\"o}der, R. (2008) {Microslot NMR probe for metabolomics studies.}
-  \emph{Anal. Chem}, \textbf{80}~(22), 8668.
-
 \bibitem{Kalfe:2015ik}
 Kalfe, A., Telfah, A., Lambert, J., \bbland{} Hergenr{\"o}der, R. (2015)
   {Looking into Living Cell Systems: Planar Waveguide Microfluidic NMR Detector
   for in Vitro Metabolomics of Tumor Spheroids}. \emph{Analytical chemistry},
   \textbf{87}~(14), 7402--7410.
+
+\bibitem{krojanski2008mnp}
+Krojanski, H., Lambert, J., Gerikalan, Y., Suter, D., \bbland{}
+  Hergenr{\"o}der, R. (2008) {Microslot NMR probe for metabolomics studies.}
+  \emph{Anal. Chem}, \textbf{80}~(22), 8668.
 
 \bibitem{Murphree:2007hg}
 Murphree, D., Cahn, S.B., Rahmlow, D., \bbland{} DeMille, D. (2007) {An easily
@@ -415,12 +424,13 @@ Mispelter, J., Lupu, M., \bbland{} Briguet, A. (2006) \emph{{NMR Probeheads for
 \bibitem{Zhang:2008uh}
 Zhang, X., Wang, C., Xie, Z., \bbland{} Wu, B. (2008) {Non-resonant microstrip
   (NORM) RF coils: an unconventional RF solution to MR imaging and
-  spectroscopy}, \bblin{} \emph{Proceedings of International Society {\ldots}}.
+  spectroscopy}, \bblin{} \emph{Proc. Intl. Soc. Mag. Reson. Med.}, \bblp{}
+  435.
 
 \bibitem{Zhang:2009tu}
 Zhang, X., Wang, C., \bbland{} Vigneron, D. (2009) {Studies on MR Reception
-  Efficiency and SNR of Non-resonance RF Method (NORM)}. \emph{{\ldots} for
-  Magnetic Resonance in {\ldots}}.
+  Efficiency and SNR of Non-resonance RF Method (NORM)}. \emph{Proc. Intl. Soc.
+  Mag. Reson. Med.}, \bblp{} 104.
 
 \bibitem{Brunner:2009ff}
 Brunner, D.O., De~Zanche, N., Fr{\"o}hlich, J., Paska, J., \bbland{}
@@ -436,7 +446,7 @@ Tang, J.A., Wiggins, G.C., Sodickson, D.K., \bbland{} Jerschow, A. (2011)
 Fratila, R.M., Gomez, M.V., S{\'{y}}kora, S., \bbland{} Velders, A.H. (2014)
   {Multinuclear nanoliter one-dimensional and two-dimensional NMR spectroscopy
   with a single non-resonant microcoil}. \emph{Nature Communications},
-  \textbf{5}.
+  \textbf{5}, 1--8.
 
 \bibitem{vanBentum:2007fd}
 van Bentum, P.J.M., Janssen, J.W.G., Kentgens, A.P.M., Bart, J., \bbland{}
@@ -490,21 +500,27 @@ Tijssen, K.C.H., Bart, J., Tiggelaar, R.M., Janssen, J.W.G.H., Kentgens,
   using tapered stripline NMR}. \emph{Journal of Magnetic Resonance},
   \textbf{263}, 136--146.
 
+\bibitem{Yap:2013ew}
+Yap, Y.S., Yamamoto, H., Tabuchi, Y., Negoro, M., Kagawa, A., \bbland{}
+  Kitagawa, M. (2013) {Strongly driven electron spins using a Ku band stripline
+  electron paramagnetic resonance resonator}. \emph{Journal of Magnetic
+  Resonance}, \textbf{232}, 62--67.
+
 \bibitem{Klotz:2011gf}
 Klotz, F., Huebl, H., Heiss, D., Klein, K., Finley, J.J., \bbland{} Brandt,
   M.S. (2011) {Coplanar stripline antenna design for optically detected
   magnetic resonance on semiconductor quantum dots}. \emph{Rev. Sci. Instrum.},
   \textbf{82}~(7), 074\,707.
 
-\bibitem{Jasinski:2012cn}
-Jasi{\'{n}}ski, K., M{\l}ynarczyk, A., Latta, P., Volotovskyy, V.,
-  W{\k{e}}glarz, W.P., \bbland{} Tomanek, B. (2012) {A volume microstrip RF
-  coil for MRI microscopy}. \emph{Magn Reson Imaging}, \textbf{30}~(1), 70--77.
-
 \bibitem{Finch:2016gv}
 Finch, G., Yilmaz, A., \bbland{} Utz, M. (2016) {An optimised detector for
   in-situ high-resolution NMR in microfluidic devices}. \emph{Journal of
   Magnetic Resonance}, \textbf{262}, 73--80.
+
+\bibitem{Jasinski:2012cn}
+Jasi{\'{n}}ski, K., M{\l}ynarczyk, A., Latta, P., Volotovskyy, V.,
+  W{\k{e}}glarz, W.P., \bbland{} Tomanek, B. (2012) {A volume microstrip RF
+  coil for MRI microscopy}. \emph{Magn Reson Imaging}, \textbf{30}~(1), 70--77.
 
 \bibitem{pan2007cac}
 Pan, Z. \bbland{} Raftery, D. (2007) {Comparing and combining NMR spectroscopy
@@ -548,10 +564,20 @@ Keatley, P.S., Kruglyak, V.V., Barman, A., Ladak, S., Hicken, R.J., Scott, J.,
 Ardenkjaer-Larsen, J.H. (2016) {On the present and future of dissolution-DNP}.
   \emph{Journal of Magnetic Resonance}, \textbf{264}, 3--12.
 
+\bibitem{Brindle:2011hu}
+Brindle, K.M., Bohndiek, S.E., Gallagher, F.A., \bbland{} Kettunen, M.I. (2011)
+  {Tumor imaging using hyperpolarized 13C magnetic resonance spectroscopy}.
+  \emph{Magn. Reson. Med.}, \textbf{66}~(2), 505--519.
+
 \bibitem{Sharma:2015ce}
 Sharma, M., Janssen, G., Leggett, J., Kentgens, A.P.M., \bbland{} van Bentum,
   P.J.M. (2015) {Rapid-melt Dynamic Nuclear Polarization}. \emph{Journal of
   Magnetic Resonance}, \textbf{258}, 40--48.
+
+\bibitem{Denysenkov:2012jy}
+Denysenkov, V. \bbland{} Prisner, T. (2012) {Liquid state Dynamic Nuclear
+  Polarization probe with Fabry{\textendash}Perot resonator at 9.2T}.
+  \emph{Journal of Magnetic Resonance}, \textbf{217}, 1--5.
 
 \bibitem{Loening:2002wg}
 Loening, N.M., Rosay, M., Weis, V., \bbland{} al, e. (2002) {Solution-state
@@ -594,11 +620,6 @@ Denysenkov, V., Prandolini, M.J., Gafurov, M., Sezer, D., Endeward, B.,
 Denysenkov, V.P., Prandolini, M.J., Krahn, A., Gafurov, M., Endeward, B.,
   \bbland{} Prisner, T.F. (2008) {High-Field DNP Spectrometer for Liquids}.
   \emph{Appl. Magn. Reson.}, \textbf{34}~(3-4), 289--299.
-
-\bibitem{Denysenkov:2012jy}
-Denysenkov, V. \bbland{} Prisner, T. (2012) {Liquid state Dynamic Nuclear
-  Polarization probe with Fabry{\textendash}Perot resonator at 9.2T}.
-  \emph{Journal of Magnetic Resonance}, \textbf{217}, 1--5.
 
 \bibitem{Prandolini:2009he}
 Prandolini, M.J., Denysenkov, V.P., Gafurov, M., Endeward, B., \bbland{}

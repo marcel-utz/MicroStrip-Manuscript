@@ -76,12 +76,12 @@
 		<array>
 			<string>NMR Detectors.txt</string>
 		</array>
-<<<<<<< Updated upstream
 		<array>
 			<string>waveguides.tex</string>
 		</array>
-=======
->>>>>>> Stashed changes
+		<array>
+			<string>texput.log</string>
+		</array>
 	</array>
 </dict>
 </plist>

@@ -1,48 +1,55 @@
-\section{Striplines and Microslots: Basics and
-Theory}\label{striplines-and-microslots-basics-and-theory}
+\section{Waveguides: Theoretical Basics}\label{striplines-and-microslots-basics-and-theory}
 
-\subsection{Definition of a
-stripline}\label{definition-of-a-stripline}
+\subsection{Propagating Electromagnetic Modes}\label{definition-of-a-stripline}
 
 The presence of conducting bodies imposes boundary conditions on the
-free propagation of electromagnetic waves. For an ideal conductor (an
+free propagation of electromagnetic waves. For perfect conductor (an
 idealisation that certain metals, including Cu and Ag, approach quite
 closely), the electric field vector must stay perpendicular to the
 surface, while the magnetic field vector is required to stay parallel.
 Wave guides are long metallic structures of (usually) constant cross
 section. Electromagnetic waves of different types (modes) can propagate
 in the longitudinal direction in such structures. They are classified as
-transverse electric (TE) or transverse magnetic (TM) waves. In TE waves,
+transverse electric (TE) or transverse magnetic (TM) waves \cite{Pozar:2012to}. In TE waves,
 the electric field has no component in the longitudinal direction, while
-the longitudinal magnetic field vanishes for TM waves. Both TE and TM
-wave modes can only propagate if the wave length is smaller than the
-lateral dimensions of the wave guide. This leads to a minimum frequency
+the longitudinal magnetic field vanishes for TM waves. 
+
+In structures made of a single conductor (such as a rectangular or a cylindrical
+tube) TE and TM
+wave modes can only propagate if the wave length is not significantly larger
+than the lateral dimensions of the conductor. This leads to a minimum frequency
 (often referred to as the cutoff frequency) for propagating modes. Also,
 the relationship between the wavelength and the frequency for TE and TM
-modes is non-linear, leading to dispersion. An additional type of
-propagating mode becomes possible if the walls of the wave guide are
+modes is non-linear, leading to dispersion. 
+
+An additional type of
+propagating mode becomes available if the walls of the wave guide are
 divided into several (at least 2) mutually insulated sections. In this
 case, an oscillatory voltage can be sustained between the separate
-conductors. Under these conditions, a propagating modes exist
+conductors. Under these conditions, propagating modes exist with
 \textit{both} the electric and magnetic fields are transverse. Such TEM
-modes do not exhibit a cutoff frequency, and in general exhibit a linear
-relationship between wavelength and frequency. Frequencies of interest
+modes do not have a cutoff frequency, and in general exhibit a linear
+relationship between wavelength and frequency. The frequencies of interest
 in magnetic resonance lie below 1.5 GHz. With usual dielectrics, this
 yields wave lengths of 20 cm or more. Therefore, TEM modes are commonly
-used in order to transport NMR signals, often in coaxial cables. This is
-different in electron paramagnetic resonance (EPR), where frequencies up
+used in order to transport NMR signals, often in coaxial cables. 
+The situation
+is  different in electron paramagnetic resonance (EPR), where frequencies up
 to several hundred GHz occur. This requires the use of rectangular wave
-guides, in some cases with corrugated metalinterior surfaces. \fig{fig:cross-sections}
-shows some examples of common wave guide cross sections. Among these,
+guides, in some cases with corrugated interior surfaces. 
+
+\fig{fig:cross-sections}
+shows some examples of common wave guide cross sections capable of supporting
+TEM modes. Among these,
 the most familiar to NMR spectroscopists is that of the coaxial cable.
-Planar wave guide structures such as the microstrip (Fig XXXX b) and the
-stripline (Fig XXX c) are conveniently implemented on printed circuit
+Planar wave guide structures such as the microstrip (\fig{fig:cross-sections}b) and the
+stripline (\fig{fig:cross-sections}c) are conveniently implemented on printed circuit
 boards, \cite{Barret:1955ie} and are very commonly used in the design of
 radio frequency and microwave circuits.
 
 \begin{figure}
 	\begin{center}
-		\includegraphics[width=\textwidth]{cross-sections}
+		\includegraphics[width=0.8\textwidth]{cross-sections}
 	\end{center}
 	\caption{Cross section of some typical planar transmission line geometries,
   		including magnetic field lines of the TEM mode. A: microstrip, B: stripline, C: microslot, D: parallel plate transmission line}

@@ -1,10 +1,19 @@
 \BOOKMARK [0][-]{chapter.1}{Waveguides for Micro-Magnetic Resonance}{}% 1
 \BOOKMARK [0][-]{author.1}{Ali Yilmaz and Marcel Utz}{}% 2
 \BOOKMARK [1][-]{section.1.1}{Introduction}{author.1}% 3
-\BOOKMARK [1][-]{section.1.2}{Striplines and Microslots: Basics and Theory}{author.1}% 4
-\BOOKMARK [2][-]{subsection.1.2.1}{Definition of a stripline}{section.1.2}% 5
+\BOOKMARK [1][-]{section.1.2}{Waveguides: Theoretical Basics}{author.1}% 4
+\BOOKMARK [2][-]{subsection.1.2.1}{Propagating Electromagnetic Modes}{section.1.2}% 5
 \BOOKMARK [2][-]{subsection.1.2.2}{Characteristic Impedance and Transport Characteristics}{section.1.2}% 6
 \BOOKMARK [2][-]{subsection.1.2.3}{Theory of TEM Wave Modes}{section.1.2}% 7
 \BOOKMARK [2][-]{subsection.1.2.4}{Modelling of TEM modes}{section.1.2}% 8
 \BOOKMARK [2][-]{subsection.1.2.5}{Magnetic Fields and Losses in Transmission Lines, Striplines, Microstrips and Microslots}{section.1.2}% 9
-\BOOKMARK [2][-]{subsection.1.2.6}{Waveguides in Micro-NMR Literature}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{Designs and Applications}{author.1}% 10
+\BOOKMARK [2][-]{subsection.1.3.1}{Microstrip NMR Probes in MRI}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.2}{Microfluidic NMR}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.3}{Planar Detectors}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.4}{Microstrip Detectors}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.5}{Non-Resonant Detectors}{section.1.3}% 15
+\BOOKMARK [2][-]{subsection.1.3.6}{Stripline Detectors}{section.1.3}% 16
+\BOOKMARK [2][-]{subsection.1.3.7}{Parallel Plate Transmission Lines}{section.1.3}% 17
+\BOOKMARK [2][-]{subsection.1.3.8}{Applications in Solid State Physics}{section.1.3}% 18
+\BOOKMARK [2][-]{subsection.1.3.9}{Waveguides for Dynamic Nuclear Polarisation}{section.1.3}% 19
