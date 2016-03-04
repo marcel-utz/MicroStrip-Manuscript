@@ -58,16 +58,6 @@ Manz, A., Graber, N., \bbland{} WIDMER, H. (1990) {Miniaturized Total
   Chemical-Analysis Systems - a Novel Concept for Chemical Sensing}.
   \emph{Sensor Actuat B-Chem}, \textbf{1}, 244--248.
 
-\bibitem{Maguire:2009wc}
-Maguire, Y., Gershenfeld, N., \bbland{} Chuang, I.L. (2009), {Slitted and
-  stubbed microstrips for high sensitivity, near-field electromagnetic
-  detection of small samples and fields}, US Patent Office.
-
-\bibitem{Bart:2009er}
-Bart, J., Janssen, J.W.G., van Bentum, P.J.M., Kentgens, A.P.M., \bbland{}
-  Gardeniers, J.G.E. (2009) {Optimization of stripline-based microfluidic chips
-  for high-resolution NMR}. \emph{J. Magn. Reson}, \textbf{201}~(2), 175--185.
-
 \bibitem{Pozar:2012to}
 Pozar, D. (2012) \emph{{Microwave Engineering}}, John Wiley {\&} Sons,
   \bblfourtho{} \bbledn{}.
@@ -94,9 +84,8 @@ Bogdanov, G. \bbland{} Ludwig, R. (2002) {Coupled microstrip line transverse
 
 \bibitem{Hayes:1985bw}
 Hayes, C.E., Edelstein, W.A., Schenck, J.F., Mueller, O.M., \bbland{} Eash, M.
-  (1985) \emph{{An efficient, highly homogeneous radiofrequency coil for
-  whole-body NMR imaging at 1.5 T}}, \bblvol{}~63, Journal of Magnetic
-  {\ldots}.
+  (1985) {An efficient, highly homogeneous radiofrequency coil for whole-body
+  NMR imaging at 1.5 T}. \emph{J. Magn. Reson}, \textbf{63}, 622--628.
 
 \bibitem{Zhang:2006wc}
 Zhang, X., Ugurbil, K., Chen, W., \bbland{} {Regents Of The University Of
@@ -109,8 +98,8 @@ Zhang, X., Zhu, X.H., \bbland{} Chen, W. (2005) {Higher-order harmonic
   Med.}, \textbf{53}~(5), 1234--1239.
 
 \bibitem{Burian:2004fg}
-Burian, M. \bbland{} H{\'a}jek, M. (2004) {Linear microstrip surface coil for
-  MR imaging of the rat spinal cord at 4.7 T}. \emph{Magn Reson Mater Phy},
+Burian, M. \bbland{} H~jek, M. (2004) {Linear microstrip surface coil for MR
+  imaging of the rat spinal cord at 4.7 T}. \emph{Magn Reson Mater Phy},
   \textbf{17}~(3-6), 359--362.
 
 \bibitem{Zhang:2003ju}
@@ -160,7 +149,7 @@ van~den Bergen, B., Klomp, D.W.J., Raaijmakers, A.J.E., de~Castro, C.A., Boer,
 \bibitem{Adriany:2005cw}
 Adriany, G., Van~de Moortele, P.F., Wiesinger, F., Moeller, S., Strupp, J.P.,
   Andersen, P., Snyder, C., Zhang, X., Chen, W., Pruessmann, K.P., Boesiger,
-  P., Vaughan, T., \bbland{} U~urbil, K.m. (2005) {Transmit and receive
+  P., Vaughan, T., \bbland{} Ugurbil, K. (2005) {Transmit and receive
   transmission line arrays for 7 Tesla parallel imaging}. \emph{Magn. Reson.
   Med.}, \textbf{53}~(2), 434--445.
 
@@ -201,18 +190,18 @@ Sweedler, J.V., Peck, T.L., Webb, A.G., Magin, R.L., Wu, N., \bbland{} {The
 \bibitem{Lacey:1999vk}
 Lacey, M.E., Subramanian, R., Olson, D., Webb, A., \bbland{} Sweedler, J.
   (1999) {High-resolution NMR spectroscopy of sample volumes from 1 nL to 10 mu
-  L}. \emph{Chem. Rev}, \textbf{99}~(10), 3133--+.
+  L}. \emph{Chem. Rev}, \textbf{99}~(10), 3133--3152.
 
 \bibitem{Peck:1994hh}
-Peck, T., Webb, A., Wu, N., Magin, R., \bbland{} Sweedler, J. (1994)
-  \emph{{On-line NMR detection in capillary electrophoresis using an RF
-  microcoil}}, IEEE.
+Peck, T., Webb, A., Wu, N., Magin, R., \bbland{} Sweedler, J. (1994) {On-line
+  NMR detection in capillary electrophoresis using an RF microcoil}, \bblin{}
+  \emph{IEMBS-94}, IEEE, \bblpp{} 986--987 vol.2.
 
 \bibitem{Wu:1994ks}
 Wu, N., Peck, T.L., Webb, A.G., Magin, R.L., \bbland{} Sweedler, J.V. (1994)
   {Nanoliter Volume Sample cells for 1H NMR: Application to Online Detection in
-  Capillary Electrophoresis}. \emph{Journal of the {\ldots}},
-  \textbf{116}~(17), 7929--7930.
+  Capillary Electrophoresis}. \emph{J. Am. Chem. Soc.}, \textbf{116}~(17),
+  7929--7930.
 
 \bibitem{Olson:1999ed}
 Olson, D., Lacey, M.E., Webb, A., \bbland{} Sweedler, J. (1999)
@@ -233,21 +222,22 @@ Seeber, D.A., Hoftiezer, J.H., Daniel, W.B., Rutgers, M.A., \bbland{}
   Instruments}, \textbf{71}~(11), 4263--4272.
 
 \bibitem{Ciobanu:2002wo}
-Ciobanu, L. \bbland{} Seeber, D. (2002) {ScienceDirect.com - Journal of
-  Magnetic Resonance - 3D MR microscopy with resolution 3.7$\mu$m by 3.3$\mu$m
-  by 3.3$\mu$m}. \emph{Journal of Magnetic Resonance}.
+Ciobanu, L., Seeber, D.A., \bbland{} Pennington, C.H. (2002) {3D MR microscopy
+  with resolution 3.7 $\mu$m by 3.3 $\mu$m by 3.3 $\mu$m}. \emph{Journal of
+  Magnetic Resonance}, \textbf{158}~(1-2), 178--182.
 
 \bibitem{KYamauchi:2005jv}
-{K Yamauchi}, Imada, T., \bbland{} Asakura, T. (2005) \emph{{Use of Microcoil
+{K Yamauchi}, Imada, T., \bbland{} Asakura, T. (2005) {Use of Microcoil
   Probehead for Determination of the Structure of Oriented Silk Fibers by
-  Solid-State NMR}}, \bblvol{} 109, American Chemical Society.
+  Solid-State NMR}. \emph{J. Phys. Chem. B}, \textbf{109}~(37),
+  17\,689--17\,692.
 
 \bibitem{Kentgens:2008ch}
 Kentgens, A.P.M., Bart, J., van Bentum, P.J.M., Brinkmann, A., van Eck, E.,
   Gardeniers, J.G.E., Janssen, J.W.G., Knijn, P., Vasa, S., \bbland{}
   Verkuijlen, M.H.W. (2008) {High-resolution liquid- and solid-state nuclear
   magnetic resonance of nanoliter sample volumes using microcoil detectors}.
-  \emph{J Chem Phys}, \textbf{128}~(5), --.
+  \emph{J Chem Phys}, \textbf{128}~(5), 052\,202.
 
 \bibitem{sakellariou2007hrh}
 Sakellariou, D., Goff, G.L., \bbland{} Jacquinot, J.F. (2007) {High-resolution,
@@ -277,7 +267,7 @@ McDonnell, E., Han, S., Hilty, C., Pierce, K., \bbland{} Pines, A. (2005) {NMR
 \bibitem{Harel:2007bs}
 Harel, E., Hilty, C., Koen, K., McDonnell, E.E., \bbland{} Pines, A. (2007)
   {Time-of-flight flow imaging of two-component flow inside a microfluidic
-  chip}. \emph{Phys Rev Lett}, \textbf{98}~(1), --.
+  chip}. \emph{Phys Rev Lett}, \textbf{98}~(1), 017\,601.
 
 \bibitem{Bouchard:2008hv}
 Bouchard, L.S., Burt, S.R., Anwar, M.S., Kovtunov, K.V., Koptyug, I.V.,
@@ -323,9 +313,10 @@ Stocker, J.E., Peck, T., Webb, A., Feng, M., \bbland{} Magin, R. (1997)
   planar microcoil}. \emph{IEEE Transactions on Biomedical Engineering},
   \textbf{44}~(11), 1122--1127.
 
-\bibitem{Trumbull:2000vb}
-Trumbull, J. \bbland{} Glasgow, I. (2000) {IEEE Xplore - Abstract Page}.
-  \emph{{\ldots} Engineering}.
+\bibitem{Trumbull:2000fa}
+Trumbull, J.D., Glasgow, I.K., Beebe, D.J., \bbland{} Magin, R. (2000)
+  {Integrating microfabricated fluidic systems and NMR spectroscopy}.
+  \emph{IEEE Transactions on Biomedical Engineering}, \textbf{47}~(1), 3--7.
 
 \bibitem{Massin:2002bj}
 Massin, C., Boero, G., Vincent, F., Abenhaim, J., Besse, P., \bbland{} Popovic,
@@ -359,8 +350,8 @@ Gomez, M.V., Verputten, H.H.J., D{\'\i}az-Ort{\'\i}z, A., Moreno, A., de~la
 \bibitem{Yue:2012fw}
 Yue, J., Schouten, J.C., \bbland{} Nijhuis, T.A. (2012) {Integration of
   Microreactors with Spectroscopic Detection for Online Reaction Monitoring and
-  Catalyst Characterization}. \emph{Industrial {\&} Engineering {\ldots}},
-  \textbf{51}~(45), 14\,583--14\,609.
+  Catalyst Characterization}. \emph{Ind. Eng. Chem. Res.}, \textbf{51}~(45),
+  14\,583--14\,609.
 
 \bibitem{Boero:2003hf}
 Boero, G., Bouterfas, M., Massin, C., Vincent, F., Besse, P., Popovic, R.S.,
@@ -404,6 +395,11 @@ Maguire, Y., Chuang, I., Zhang, S., \bbland{} Gershenfeld, N. (2007)
   {Ultra-small-sample molecular structure detection using microslot waveguide
   nuclear spin resonance}. \emph{Proc. Natl. Acad. Sci. USA},
   \textbf{104}~(22), 9198--9203.
+
+\bibitem{Maguire:2009wc}
+Maguire, Y., Gershenfeld, N., \bbland{} Chuang, I.L. (2009), {Slitted and
+  stubbed microstrips for high sensitivity, near-field electromagnetic
+  detection of small samples and fields}, US Patent Office.
 
 \bibitem{Kalfe:2015ik}
 Kalfe, A., Telfah, A., Lambert, J., \bbland{} Hergenr{\"o}der, R. (2015)
@@ -463,12 +459,18 @@ Bart, J., Kolkman, A.J., Oosthoek-de Vries, A.J., Koch, K., Nieuwland, P.J.,
   Janssen, H.J.W.G., van Bentum, P.J.M., Ampt, K.A.M., Rutjes, F.P.J.T.,
   Wijmenga, S.S., Gardeniers, H.J.G.E., \bbland{} Kentgens, A.P.M. (2009) {A
   Microfluidic High-Resolution NMR Flow Probe}. \emph{J Am Chem Soc},
-  \textbf{131}~(14), 5014--+.
+  \textbf{131}~(14), 5014--5015.
+
+\bibitem{Bart:2009er}
+Bart, J., Janssen, J.W.G., van Bentum, P.J.M., Kentgens, A.P.M., \bbland{}
+  Gardeniers, J.G.E. (2009) {Optimization of stripline-based microfluidic chips
+  for high-resolution NMR}. \emph{J. Magn. Reson}, \textbf{201}~(2), 175--185.
 
 \bibitem{Bart:2010wi}
 Bart, J., Oosthoek-de Vries, A.J., Tijssen, K.C.H., Janssen, J.W.G., Bentum,
   P.J.M., Gardeniers, J., \bbland{} Kentgens, A. (2010) {In-line NMR analysis
-  using stripline based detectors}. \emph{Proc 14th Int Conf on {\ldots}}.
+  using stripline based detectors}, \bblin{} \emph{MicroTAS}, \bblpp{}
+  2086--2088.
 
 \bibitem{vanBentum:2008jc}
 van Bentum, P.J.M. \bbland{} Kentgens, A.P.M. (2008) {High-Sensitivity NMR
@@ -478,8 +480,8 @@ van Bentum, P.J.M. \bbland{} Kentgens, A.P.M. (2008) {High-Sensitivity NMR
 \bibitem{Goswami:2014ha}
 Goswami, M., Knijn, P.J., Bauhuis, G.J., Janssen, J.W.G., van Bentum, P.J.M.,
   de~Wijs, G.A., \bbland{} Kentgens, A.P.M. (2014) {Stripline 75As NMR Study of
-  Epitaxial III{\textendash}V Semiconductor Al0.5Ga0.5As}. \emph{The Journal of
-  {\ldots}}, \textbf{118}~(25), 13\,394--13\,405.
+  Epitaxial III{\textendash}V Semiconductor Al0.5Ga0.5As}. \emph{J. Phys. Chem.
+  C}, \textbf{118}~(25), 13\,394--13\,405.
 
 \bibitem{Falck:2013kv}
 Falck, D., Vries, A.J.O.d., Kolkman, A., Lingeman, H., Honing, M., Wijmenga,
@@ -587,7 +589,7 @@ Denysenkov, V. \bbland{} Prisner, T. (2012) {Liquid state Dynamic Nuclear
 \bibitem{Loening:2002wg}
 Loening, N.M., Rosay, M., Weis, V., \bbland{} al, e. (2002) {Solution-state
   dynamic nuclear polarization at high magnetic field}. \emph{Journal of the
-  American {\ldots}}.
+  American {\ldots}}, \textbf{124}, 8808--8809.
 
 \bibitem{Lingwood:2009jy}
 Lingwood, M.D. \bbland{} Han, S. (2009) {Dynamic nuclear polarization of 13C in

@@ -4,66 +4,66 @@ The top-level auxiliary file: microstrip.aux
 The style file: wileynum.bst
 Database file #1: literature.bib
 Warning--entry type for "Bridges:1988vz" isn't style-file defined
---line 10967 of file literature.bib
+--line 10970 of file literature.bib
 Warning--entry type for "Zhang:2006wc" isn't style-file defined
---line 11816 of file literature.bib
+--line 11819 of file literature.bib
 Warning--entry type for "Boskamp:2006tl" isn't style-file defined
---line 11909 of file literature.bib
-Repeated entry---line 11962 of file literature.bib
+--line 11912 of file literature.bib
+Repeated entry---line 11965 of file literature.bib
  : @article{hoult1975cfd
  :                      ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "Maguire:2009wc" isn't style-file defined
---line 12296 of file literature.bib
+--line 12299 of file literature.bib
 Warning--entry type for "Sweedler:1997tl" isn't style-file defined
---line 13006 of file literature.bib
-I was expecting a `,' or a `}'---line 20104 of file literature.bib
+--line 13009 of file literature.bib
+I was expecting a `,' or a `}'---line 20116 of file literature.bib
  : month = {\textasciitilde}
  :                          5,
 I'm skipping whatever remains of this entry
-Repeated entry---line 20452 of file literature.bib
+Repeated entry---line 20464 of file literature.bib
  : @article{webb2005nmr
  :                     ,
 I'm skipping whatever remains of this entry
 You've used 115 entries,
             2913 wiz_defined-function locations,
-            1354 strings with 29227 characters,
-and the built_in function-call counts, 94955 in all, are:
-= -- 11677
-> -- 1789
+            1364 strings with 29251 characters,
+and the built_in function-call counts, 101154 in all, are:
+= -- 12697
+> -- 1798
 < -- 8
-+ -- 1210
-- -- 522
-* -- 4254
-:= -- 7102
-add.period$ -- 215
++ -- 1280
+- -- 525
+* -- 4473
+:= -- 7408
+add.period$ -- 216
 call.type$ -- 115
-change.case$ -- 110
+change.case$ -- 113
 chr.to.int$ -- 6
 cite$ -- 115
-duplicate$ -- 11584
-empty$ -- 5934
-format.name$ -- 628
-if$ -- 20263
+duplicate$ -- 12384
+empty$ -- 6153
+format.name$ -- 631
+if$ -- 21534
 int.to.chr$ -- 0
 int.to.str$ -- 115
-missing$ -- 1288
+missing$ -- 1300
 newline$ -- 357
 num.names$ -- 115
-pop$ -- 4117
+pop$ -- 4405
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 6119
+skip$ -- 6648
 stack$ -- 0
-substring$ -- 4750
-swap$ -- 10886
+substring$ -- 5283
+swap$ -- 11772
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 115
 warning$ -- 0
-while$ -- 400
+while$ -- 421
 width$ -- 118
-write$ -- 1036
+write$ -- 1042
 (There were 3 error messages)
