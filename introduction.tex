@@ -6,41 +6,55 @@
 
 \section{Introduction}
 
-Nuclear magnetic resonance involves the interaction of a system of nuclear spins exposed to a static 
-magnetic field with an oscillatory field, usually in the radio frequency range (anywhere from 1 kHz to 
-several GHz) \cite{Abragam:1961vg}. In the overwhelming majority of cases, transitions between spin
-states that 
-result from this interaction are detected by a voltage induced into a 
- conductor surrounding the sample. Alternative readout approaches have been demonstrated, and have 
+In nuclear magnetic resonance, a system of nuclear spins exposed to a static 
+magnetic interacts with an oscillatory field, usually in the radio frequency range 
+\cite{Abragam:1961vg}. 
+In most NMR setups, including all in all commercially available NMR
+spectrometers, coherent transitions between spin
+states are detected by a voltage induced into a 
+conductor surrounding the sample. 
+While other have 
 their advantages in certain cases, inductive detection has proven to be both robust and 
-easy to implement. The earliest demonstrations of nuclear magnetic resonance, pioneered 
-by Rabi \cite{Rabi:1938tq}, have relied on the deflection atomic beams in inhomogeneous fields according to the spin state, rather than on inductive detection.
+easy to implement. 
 
+The earliest demonstrations of nuclear magnetic resonance, pioneered 
+by Rabi \cite{Rabi:1938tq}, have relied on the deflection atomic beams in inhomogeneous fields according to the spin state, rather than on inductive detection.
 However, NMR only became a widely used tool for chemistry after the invention of the direct induction 
 method, independently discovered by Bloch \cite{Bloch:1946hk} 
 and by Purcell, Torrey, and Pound \cite{Purcell:1946ft} in 1946. 
 
-The same conductor that detects the nuclear spin precession can be used for its excitation. 
-Particularly in the context of the Fourier spectroscopy method,\cite{Ernst:1966cr} this has 
+The same conductor that detects the nuclear spin precession can also be used for its excitation. 
+Particularly in the context of the Fourier spectroscopy method \cite{Ernst:1966cr}, this has 
 become very useful. It is relatively easy to expose a sample to an oscillatory magnetic field by 
 surrounding it with a suitable conductor, through which an alternating current is sent at the appropriate 
-frequency. The precessing spins induce a measurable voltage in the same conductor. Of course, there are 
+frequency. The precessing spins induce a measurable voltage in the same conductor. There are 
 technical problems to be solved that arise due to the high power that is needed in some cases for 
 excitation, while the induced voltages are very small and require exquisitely sensitive receivers. It 
 is not uncommon for excitation RF power to approach several kW, whereas the power available for spin 
-detection is many orders of magnitude lower (pW).
+detection is many orders of magnitude lower.
 
 The earliest inductive NMR systems have almost exclusively relied on solenoid coils as excitation/
 detection systems. As the applications of NMR have diversified, and new technologies have become 
-available, other geometries have been explored. In particular, the advent of superconducting magnets 
-with cylindrical bores has led to the development of saddle coils and related resonator geometries. 
-Magnetic resonance imaging, in particular for medical applications, brought the need to accommodate 
-much larger samples. 
-Most of the current NMR detectors follow a cylindrical form factor. There are some 
-applications, though, which require a more planar geometry. In particular, the study of thin films, 
-membranes, and interfaces is complicated in cylindrical detector systems. Special, flattened solenoid 
+available, other geometries have been explored. In the 1970s, electromagnets
+with planar gaps were replaced by superconducting solenoids, which offered
+higher fields and better stability. To facilitate loading samples 
+axially through be magnet bore, saddle coils and related resonator geometries have been developed.  At the same time, magnetic resonance imaging, in particular for medical applications, brought the need to accommodate  much larger samples. 
+
+Today, most detectors used in NMR spectroscopy follow a cylindrical form factor, optimised for standard NMR sample tubes of 5~mm or 10~mm diameter.
+Some special
+applications, though, require a different geometry, and  In particular, the study of thin films, 
+membranes, and interfaces is inefficient in cylindrical detectors, and various
+alternative detector geometries have been explored. For example, 
+flattened solenoid 
 probes have been developed for the study of membrane proteins under solid-state NMR conditions
 \cite{Bechinger:1991in}. 
+
+The present chapter is concerned with the use of planar waveguides, such as striplines
+and microstrips, as inductive detectors for NMR spectroscopy and imaging. As 
+will become clear in the following, such structures readily lend themselves
+to miniaturisation, since they can be fabricated using efficient lithographic
+techniques. However, they were introduced as detectors in magnetic 
+resonance imaging long before their potential for micro-NMR was discovered.
 
 As the magnetic fields, and, correspondingly, the Larmor frequencies used in MRI scanners 
 have increased, uniform penetration of the radio frequency magnetic fields into the tissue has become 
@@ -67,27 +81,24 @@ scales proportionally to the square root of the ohmic resistance of the detector
 The relationship 
 between the NMR spin precession and the induced voltage signal has been discussed by Hoult and Richards 
 in terms of the correspondence principle \cite{hoult1975cfd}. The  induced signal strength from a single spin depends on 
-the normalised magnetic field (generated by the detector per unit current) at the location of the spin. 
-Hence, efficient detectors need to be designed such that the magnetic field they generate per unit 
-current is maximal. This conflicts with the requirement of low resistance, which is important to keep 
-the noise voltage small, and an optimal compromise must be found in practice between the two.
+the normalised magnetic field at the location of the spin that the detector circuit produces per 
+unit current flowing in it. 
+Hence, efficient detectors need to be designed such that the magnetic field they generate is maximal. This conflicts with the requirement of low ohmic resistance, which is important to keep 
+the noise voltage small, and a compromise between the two must be found in practice.
+
 It has been well known for about two decades that the mass sensitivity (i.e., the signal/noise ratio 
-per spin) of inductive detectors is roughly inversely proportional to the detector size. This can be 
+per spin and per bandwidth) of inductive detectors is roughly inversely proportional to the detector size. This can be 
 rationalised by examining the normalised magnetic field and the radio frequency resistance of a 
 particular detector geometry as a function of its overall dimensions. For example, the magnetic field 
-generated by a single circular loop of diameter $d$ made of a wire of thickness $h$ is given approximately 
-by $H/I=1/(\pi d)$. If the geometry is scaled by a factor $\alpha$, the $H/I$ value therefore scales as 
+generated at the centre of a circular loop of diameter $d$ made of a wire of thickness $h$ is given approximately 
+by $H/I=1/(\pi d)$. If the geometry is scaled by a factor $\alpha$, $H/I$ therefore scales as 
 $\alpha^{-1}$. At typical NMR frequencies, the skin depth in Cu amounts only to a few $\mu$m. Therefore, 
 as both the wire diameter and the loop diameter are scaled by the same factor $\alpha$, the 
 resistance of the structure remains roughly constant, as long as the wire diameter remains larger than 
 the skin depth. As a result the signal to noise ratio for a given number of spins is expected to scale roughly as $1/\alpha$. A 
-similar argument can be made for solenoid coils. 
-In practice, the observed scaling is somewhat weaker. Still, 
-NMR detectors based on micro coils (i.e., with dimensions of tens to hundreds of $\mu$m) have been shown 
-to provide very high mass sensitivities. This has formed the basis of hyphenated techniques, where 
-upstream chromatographic separation is combined with downstream detection by NMR  \cite{webb2005nmr}.
+similar argument can be made for solenoid coils and other detector geometries.
 
-Microfluidics is a rapidly expanding field of science and technology. The underlying idea is borrowed 
+Microfluidics represents a rapidly expanding field of science and technology. The underlying idea is borrowed 
 from micro-electronics: to integrate complex functionality in a mostly two-dimensional layout, making 
 use of efficient lithographic fabrication technologies. This lab-on-a-chip (LoC) approach has proven 
 especially fruitful in enabling total analysis systems, which integrate sample preparation, 
@@ -105,9 +116,9 @@ efforts, its use in the context of microfluidic devices is not yet widespread. T
 reasons for this. On the one hand, the planar geometry of microfluidic devices is not easily combined 
 with common NMR detectors, which are typically designed for a cylindrical sample. Another limitation is 
 the poor sensitivity of NMR, which is exacerbated by the small sample amounts typically available in 
-microfluidic systems. As will become apparent in the following, stripline and microstrip detectors are of 
+microfluidic systems. Stripline and microstrip detectors are of 
 particular interest in this context, since they inherently follow a planar geometry, and they can offer 
-extremely high mass sensitivity, as will discussed in detail in the following.
+extremely high mass sensitivity, as will be discussed in detail in the following.
 
 Looking into the future, transmission-line based detector geometries offer significant potential for further 
 advances in miniaturisation. Their fabrication using lithographic techniques is straightforward, in 

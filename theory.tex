@@ -2,41 +2,43 @@
 
 \subsection{Propagating Electromagnetic Modes}\label{definition-of-a-stripline}
 
-The presence of conducting bodies imposes boundary conditions on the
-free propagation of electromagnetic waves. For perfect conductor (an
-idealisation that certain metals, including Cu and Ag, approach quite
-closely), the electric field vector must stay perpendicular to the
-surface, while the magnetic field vector is required to stay parallel.
-Wave guides are long metallic structures of (usually) constant cross
+The presence of conducting surfaces imposes boundary conditions on the
+free propagation of electromagnetic waves. The electric field vector must stay
+perpendicular to the
+surface of an ideal conductor, while the magnetic field vector is required to stay parallel.
+Wave guides are long structures of an insulator (called the dielectric) surrounded
+by conducting surfaces, usually with a constant cross
 section. Electromagnetic waves of different types (modes) can propagate
 in the longitudinal direction in such structures. They are classified as
 transverse electric (TE) or transverse magnetic (TM) waves \cite{Pozar:2012to}. 
 In TE waves, the electric field has no component in the longitudinal direction, while
 the longitudinal magnetic field vanishes for TM waves. 
 
-In hollow structures made of a single conductor (such as a rectangular or a cylindrical
-tube) wave modes can only propagate if the wave length is not significantly larger
+In waveguides bounded by a single conductor, such as a rectangular or a cylindrical
+tube, wave modes only propagate if the wave length is not significantly larger
 than the lateral dimensions of the conductor. This leads to a minimum frequency
-(often referred to as the cutoff frequency) for each propagating mode. Also,
-the relationship between the wavelength and the frequency for TE and TM
+for each propagating mode, which is often referred to as the cutoff frequency.
+Also, the relationship between the wavelength and the frequency for TE and TM
 modes is non-linear, leading to dispersion. 
 
-An additional type of
-propagating mode becomes available if the walls of the wave guide are
+In addition to TE and TM waves, another type of
+propagating mode becomes available if the walls of the waveguide are
 divided into several (at least 2) mutually insulated sections. In this
-case, an oscillatory voltage can be sustained between the separate
-conductors. Under these conditions, propagating modes exist with
-\textit{both} the electric and magnetic fields are transverse. Such TEM
+case, an oscillatory voltage can be sustained within the cross section
+between the separate conductors. Under these conditions, propagating modes exist with
+\textit{both} the electric and magnetic fields transverse. Such TEM
 modes do not have a cutoff frequency, and in general exhibit a linear
-relationship between wavelength and frequency. The frequencies of interest
-in magnetic resonance lie below 1.5 GHz. With usual dielectrics, this
-yields wave lengths of 20 cm or more. Hollow waveguides supporting TE or TM
-modes for these frequencies would be very unwieldy. Therefore, TEM modes are commonly
-used in order to transport NMR signals, often in coaxial cables. 
-By contrast, electron paramagnetic resonance (EPR), with frequencies up
-to several hundred GHz, often relies on hollow waveguides.
+relationship between wavelength and frequency. 
 
-In the present context, we are mainly interested in the use of waveguides not only 
+The frequencies of interest
+in magnetic resonance lie below 1.5 GHz. With usual dielectrics, this
+yields wave lengths of 20 cm or more, and hollow waveguides supporting TE or TM
+modes for these frequencies would be very unwieldy. Therefore, TEM modes are commonly
+used in order to transport NMR signals, mostly in coaxial cables. 
+By contrast, electron paramagnetic resonance (EPR), with frequencies up
+to several hundred GHz, often relies on rectangular waveguides.
+
+In the present context, we are interested in the use of waveguides not only 
 for carrying RF signals between different components of the experimental setup,
  but also for inductive detection of the nuclear  spin precession. 
 \fig{fig:cross-sections}
@@ -61,14 +63,15 @@ radio frequency and microwave circuits.
 Characteristics}\label{characteristic-impedance-and-transport-characteristics}
 
 For TEM modes, it is possible to attribute a current and a voltage
-amplitude to the travelling wave by integrating along the electric /
-magnetic field lines in the cross section. While the absolute voltage
-and current amplitudes depend on the level of wave excitation, their
-ratio (measured in Ohm) is a constant given purely by the cross section
-geometry, and the dielectric and magnetic properties of the insulating
+amplitude to the travelling wave by integrating along the electric and
+magnetic field lines in the cross section, respectively.
+ While the absolute voltage and current amplitudes depend on the 
+power transported by the wave, their
+ratio (measured in $\Omega$) is a constant defined purely by the cross section
+geometry and the dielectric and magnetic properties of the insulating
 medium. This ratio is known as the characteristic impedance \m{Z_0} of
 the wave guide. Coaxial cables are commonly designed for a
-characteristic impedance of 50 Ohm.
+characteristic impedance of 50$\Omega$.
 
 \subsection{Theory of TEM Wave Modes}\label{theory-of-tem-wave-modes}
 
@@ -92,41 +95,40 @@ equation
 (\nabla^2+k^2) \mathbf{E}  =0,
 \end{equation}
 %
-where \m{k=\omega\sqrt{\mu\epsilon}} is the wave number. If we assume a
-harmonic dependence in the z direction of the two transverse components,
-proportional to \m{e^{-j k z}}, it is easily shown that the transverse
-components must satisfy Laplace's equation, i.e.,
+where \m{k=\omega\sqrt{\mu\epsilon}} is the wave number. If we assume the
+transverse components of the electric field to depend harmonically on $z$,
+proportionally \m{e^{-j k z}}, it is easily shown that they
+satisfy Laplace's equation, i.e.,
 %
 \begin{equation}
 \left(\frac{\partial^2}{\partial x^2}+ \frac{\partial^2}{\partial y^2}\right) E_{x,y} = 0.
 \end{equation}
-
 A similar argument leads to the same result for the transverse magnetic
 field. The electric and magnetic field distribution in the cross section
-of a transmission line are therefore solutions to Laplace's equation.
-The fields satisfy the boundary conditions
-\m{\mathbf{E} \cdot \mathbf{n}=0} and \m{\mathbf{H}\times \mathbf{n}=0},
+of a transmission line are therefore both solutions to Laplace's equation,
+but they obey different boundary conditions.
+For the electric field, we have\m{\mathbf{E} \cdot \mathbf{n}=0} at the
+conductor surface,
+and the magnetic field satisfies \m{\mathbf{H}\times \mathbf{n}=0},
 where \m{\mathbf{n}} is the surface normal. It is useful to note that
-the field distributions follow the same laws as in the case of
-completely static fields. In particular, this means that the field
-distribution inside a transmission line is
-\textit{independent of the frequency}. Transmission lines are therefore
+the field distributions follow the same laws as  static fields. In particular,
+this means that the field distribution for a TEM mode is
+\textit{independent of the frequency}. TEM transmission lines are therefore
 inherently broad-band devices, with no lower limit to the frequencies
 they can carry. In theory, there is no upper limit for the propagation
 of the TEM mode either; however, the excitation of TE and TM modes
 complicates the situation at very high frequencies. For this reason,
 coaxial transmission lines are only used up to frequencies of several
-tens of GHz. In addition, dielectric losses in commonly used insulators
-become intolerable at very high frequencies. 
+GHz. 
 
 \subsection{Modelling of TEM modes}\label{modelling-of-tem-modes}
 
 Since the transverse electric and magnetic field distributions for TEM
 modes are solutions of the two-dimensional Laplace equation, they are
 easily computed for any geometry using a finite element or finite
-difference approach. It should be noted that the electric field is
-curl-free. Therefore, it can be represented as the gradient of an
-electrostatic potential \m{\phi(x,y)}, which also satisfies the Laplace
+difference approach. Since the electric field is
+curl-free, it can be represented as the gradient of an
+electrostatic potential \m{\phi(x,y)}, which  satisfies the (scalar) Laplace
 equation. Computing the transverse field distribution therefore reduces
 to a simple Dirichlet problem, where fixed potential values must be
 attributed to the conductor surfaces:
@@ -266,12 +268,7 @@ For pure Cu, \m{\sigma=5.9\cdot 10^7}S/m, which translates
 into a surface resistance of about 10 m\m{\Omega} at 100 MHz, and about
 35 m\m{\Omega} at 1 GHz. The losses lead to a gradual attenuation of a
 travelling TEM mode, as reflected in the real part of the propagation
-constant \m{\gamma}. The conductive and dielectric losses are additive,
-such that we can write
-%
-\begin{equation}
-\alpha = \alpha_d + \alpha_c.
-\end{equation}
+constant \m{\gamma}.
 
 
 \subsection{Magnetic Fields in Planar TEM Transmission Lines}
@@ -325,18 +322,18 @@ In order to optimise the coupling of the detector to the spectrometer transmitte
 receiver circuits, it is necessary to match its impedance to the standard impedance,
 ususally 50$\Omega$. This is most commonly achieved by tuning the detector to a resonance
 frequency very slightly above the desired Larmor frequency, and then nulling the resulting
-positive reactance by a series capacitor. 
+positive reactance with a series capacitor. 
 
 A transmission line stub of length $l$ with open ends (infinte termination impedance) will support
 a manifold of eigenmodes, with frequencies that correspond to standing waves with current nodes
-at the ends, i.e., an integer number of half waves must be fit into $l$. The standing waves at these
+at the ends, i.e., an integer number of half waves must fit into $l$. The standing waves at these
 frequencies exhibit voltage nodes at the locations of the current anti-nodes. This is convenient in 
 NMR spectroscopy, because the most sensitive location of the resonator (at the 
 magnetic field maxima) are automatically the ones where the electric field amplitude vanishes.
-Resonant transmission line probes therefore exhibit only minimal sample heating, and 
+Well-designed resonant transmission line probes therefore exhibit only minimal sample heating, and 
 are largely immune to quality factor degradation through dielectric losses.
 
-Resonators can also be realised by other terminations. Often, one end of the transmission line
+Resonators can also be realised with other terminations. Often, one end of the transmission line
 is short-circuited, rather than left open. This leads to a current anti-node at the shorted
 end. 
 In some cases, it is desirable to achive as uniform as possible a current distribution throughout
